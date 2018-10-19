@@ -1,0 +1,32 @@
+/**
+ * Welcome
+ * -------------------------------------------------- */
+
+.o-welcome {
+  margin-bottom: 64px;
+  padding-top: 64px;
+
+  &__wrapper {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 64px;
+  }
+
+  &__title {
+
+    .title {
+      margin-bottom: 24px;
+      font-size: 48px;
+      font-weight: 300;
+      text-transform: capitalize;
+      color: $gray-900;
+    }
+
+    .summary {
+      padding: 0 48px;
+      font-size: 30px;
+      font-weight: 300;
+      margin-bottom: 0;
+      color: $gray-900;
+    }
+  }
+}

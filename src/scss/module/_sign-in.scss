@@ -1,0 +1,35 @@
+/**
+ * Sign In
+ * -------------------------------------------------- */
+
+.o-sign-in {
+
+  &__wrapper {
+    background-color: $gray-100;
+    padding: 82px 0;
+  }
+
+  &__title {
+    margin-bottom: 12px;
+
+    .title {
+      font-size: 36px;
+      font-weight: 700;
+      text-transform: uppercase;
+      margin-bottom: 0;
+      color: $gray-900;
+    }
+  }
+
+  &__summary {
+    margin-bottom: 48px;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  &__action {
+
+  }
+}

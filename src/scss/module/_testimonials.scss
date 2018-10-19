@@ -1,0 +1,44 @@
+/**
+ * Testimonials
+ * -------------------------------------------------- */
+
+.o-testimonials {
+
+  &__wrapper {
+
+  }
+
+  .o-block {
+    text-align: center;
+  }
+
+  &__thumbnail {
+    margin-bottom: 1.9375rem; /*31px*/
+
+    figure {
+      width: 6.25rem; /*100px*/
+      height: 6.25rem; /*100px*/
+      border-radius: 50%;
+      background-color: $gray-100;
+      margin: 0 auto;
+    }
+  }
+
+  &__title {
+    margin-bottom: 1.375rem; /*22px*/
+
+    h3 {
+      color: $white;
+    }
+  }
+
+  &__caption {
+    p {
+      font-style: italic;
+      font-size: 1.5rem; /*24px*/
+      font-weight: 200;
+      line-height: 1.6;
+      color: lighten($white, 50);
+    }
+  }
+}

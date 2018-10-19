@@ -1,0 +1,18 @@
+title: Main Navigation
+
+main-navigation:
+
+- title: Home
+  url: index.html
+
+- title: Elements
+  url: elements.html
+
+- title: Blogs
+  url: blogs.html
+
+- title: Typography
+  url: index.html
+
+- title: Contact
+  url: contact.html

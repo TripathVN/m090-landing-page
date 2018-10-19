@@ -1,0 +1,34 @@
+/**
+ * Pages
+ * -------------------------------------------------- */
+
+.o-page-top {
+  background-color: $gray-100;
+
+  &__wrapper {
+  }
+
+  &__block {
+
+  }
+
+  .o-breadcrumb {
+    ul {
+      padding: 0;
+
+      li {
+        margin: 0;
+      }
+    }
+  }
+}
+
+.o-page-main {
+  &__wrapper {
+    background-color: $white;
+  }
+}
+
+.o-page-bottom {
+  background-color: $gray-100;
+}

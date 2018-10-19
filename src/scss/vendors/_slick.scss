@@ -1,0 +1,26 @@
+/**
+ * Slick
+ * -------------------------------------------------- */
+
+.slick-slider {
+  .slick-list {
+    .slick-track {
+      .slick-slide {
+
+      }
+    }
+  }
+  ul.slick-dots {
+    li {
+      margin: 0;
+      button {
+        &:before {
+          color: $white;
+        }
+      }
+      &.active {
+
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+/**
+ * Map
+ * -------------------------------------------------- */
+
+.o-map {
+  background-color: #dfedf9;
+  padding: 64px 0;
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style-type: none;
+
+      &.image {
+        figure {
+          margin-bottom: 48px;
+        }
+      }
+    }
+  }
+
+  &__left {
+
+  }
+
+  &__right {
+    position: relative;
+
+    figure.o-map-svg {
+      margin: 0 auto;
+      max-width: 400px;
+    }
+  }
+
+  &__location {
+    background-image: url(../images/location.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    top: 0;
+    left: 0;
+
+    figure {
+      width: 80px;
+      height: 80px;
+      background-color: $white;
+      position: absolute;
+      margin-bottom: 0;
+      left: 41px;
+      top: 32px;
+      border-radius: 50%;
+    }
+
+    &.item1 {
+      left: 190px;
+    }
+
+    &.item2 {
+      top: 200px;
+      left: 220px;
+    }
+
+    &.item3 {
+      top: 400px;
+      left: unset;
+      right: 50px
+    }
+
+    &.item4 {
+      top: unset;
+      bottom: 100px;
+      left: 230px;
+    }
+  }
+
+  &__title {
+    margin-bottom: 4px;
+
+    .title {
+      font-size: 36px;
+      font-weight: 300;
+      text-transform: capitalize;
+      margin-bottom: 0;
+      color: $gray-900;
+    }
+  }
+
+  &__summary {
+    margin-bottom: 16px;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}

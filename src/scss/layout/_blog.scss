@@ -1,0 +1,61 @@
+/**
+ * Blog
+ * -------------------------------------------------- */
+
+/* Overall on Blog Page */
+.o-blog {
+  .o-page-top {
+
+  }
+
+}
+
+/* Blog Section */
+.o-p-blog {
+
+  /* Overall on Blog Page */
+  &__wrapper {
+
+  }
+
+  &__thumbnail {
+
+  }
+
+  &__topic {
+
+  }
+
+  &__title {
+
+  }
+
+  &__summary {
+
+  }
+
+  /* Custom on Styles */
+  &.style-1 {
+    .o-p-blog {
+      &__wrapper {
+
+      }
+
+      &__thumbnail {
+
+      }
+
+      &__topic {
+
+      }
+
+      &__title {
+
+      }
+
+      &__summary {
+
+      }
+    }
+  }
+}

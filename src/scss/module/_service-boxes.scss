@@ -1,0 +1,40 @@
+/**
+ * Service Boxes
+ * -------------------------------------------------- */
+
+.o-services-boxes {
+
+  &__wrapper {
+    text-align: center;
+  }
+
+  &__block {
+    margin-bottom: 48px;
+  }
+
+  figure {
+    display: inline-block;
+    background-color: transparent;
+    border-radius: 50%;
+    width: 150px;
+    height: auto;
+    margin-bottom: 33px;
+  }
+
+  &__title {
+    margin-bottom: 12px;
+
+    .title {
+      font-size: 18px;
+      font-weight: 700;
+      color: $black;
+      text-transform: uppercase;
+    }
+  }
+
+  &__summary {
+    p {
+      margin-bottom: 0;
+    }
+  }
+}

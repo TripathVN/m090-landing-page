@@ -1,0 +1,101 @@
+/**
+ * Carousel
+ * -------------------------------------------------- */
+
+.o-carousel {
+  background: radial-gradient(#19516b, #112751);
+
+  &__wrapper {
+    color: $white;
+    overflow: hidden;
+  }
+
+  &__left {
+    padding: 120px 0;
+  }
+
+  &__right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
+  &__logo {
+    img {
+
+      max-width: 18.75rem; /*300px*/
+    }
+  }
+
+  &__title {
+    margin-bottom: 26px;
+
+    h1 {
+      text-transform: uppercase;
+      font-weight: 700;
+      color: $white;
+    }
+  }
+
+  &__sub {
+    margin-bottom: 46px;
+
+    p {
+      font-size: 1rem;
+      font-weight: 300;
+      line-height: 1.75rem;
+    }
+  }
+
+  &__action {
+    a {
+      display: inline-block;
+      margin-right: 16px;
+    }
+    img {
+      width: 160px;
+    }
+  }
+
+  &__picker {
+    position: relative;
+
+    p {
+      margin-bottom: 0;
+    }
+
+    &.red {
+      width: 300px;
+      background-color: $red;
+      box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+      position: absolute;
+      top: 25%;
+      left: 0;
+      padding: 12px 16px;
+      border-radius: 5px;
+    }
+
+    &.blue {
+      width: 300px;
+      background-color: $blue;
+      box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+      position: absolute;
+      top: 35%;
+      right: 0;
+      padding: 12px 16px;
+      border-radius: 5px;
+    }
+
+    &.yellow {
+      width: 300px;
+      background-color: $yellow;
+      box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+      position: absolute;
+      bottom: 45%;
+      left: 0;
+      padding: 12px 16px;
+      border-radius: 5px;
+    }
+  }
+}

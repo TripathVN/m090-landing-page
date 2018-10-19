@@ -1,0 +1,42 @@
+/**
+ * Modal
+ * -------------------------------------------------- */
+
+/*Subscription Modal*/
+.o-subscription {
+  .modal {
+    .modal-dialog {
+
+    }
+    .modal-content {
+
+    }
+    .o-subscription__form {
+      form {
+        border-radius: .3rem;
+
+        .modal-header {
+          align-items: center;
+          border-bottom: 1px solid rgba(255, 255, 255, .2);
+
+          .modal-title {
+            font-size: 0.75rem; /*12px*/
+            font-weight: 300;
+            letter-spacing: 0.3125rem; /*5px*/
+            text-transform: uppercase;
+          }
+          button.close {
+            background: transparent;
+          }
+        }
+        .modal-body {
+          padding: 1.25rem; /*20px*/
+        }
+        .modal-footer {
+          padding: 1.25rem; /*20px*/
+          border-top: 1px solid rgba(255, 255, 255, .2);
+        }
+      }
+    }
+  }
+}

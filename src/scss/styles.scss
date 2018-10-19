@@ -1,0 +1,52 @@
+/*
+Name: OM Mediation HTML Template
+URI: https://github.com/dtux0986/om-mediation.git
+Author: Tu Dinh Xuan
+Author URI: #
+Description: OM Mediation HTML Template
+Version: 1.0.0
+Text Domain: om
+Domain Path: /languages/
+Tags: free, html5, css3, responsive, template, responsive
+License: GNU General Public License v3.0
+License URI: license.txt
+*/
+
+@import "helpers/variables";
+@import "helpers/mixins";
+
+@import "base/global";
+@import "base/grid";
+@import "base/elements";
+
+@import "vendors/bootstrap";
+@import "vendors/slick";
+@import "vendors/scrollmagic";
+
+@import "components/form";
+@import "components/modal";
+@import "components/navigation";
+
+@import "module/carousel";
+@import "module/welcome";
+@import "module/testimonials";
+@import "module/service-boxes";
+@import "module/map";
+@import "module/parallax";
+@import "module/subscription";
+@import "module/sign-in";
+@import "module/misc";
+
+@import "layout/header";
+
+/* Default Post */
+
+@import "layout/blog";
+@import "layout/single-post";
+
+/* Default Pages */
+
+@import "layout/pages";
+@import "layout/single-page";
+
+@import "layout/footer";

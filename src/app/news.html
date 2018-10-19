@@ -1,0 +1,39 @@
+---
+title: News
+slug: news
+description: Our team stands ready to assist you at all times. With multiple ways to get in touch, including forums, ticket system, live chat and telephone, you will always find what you need.
+layout: blog
+sidebar: on
+page-top: on
+header: 1
+---
+
+<section id="o-p-blog" class="o-p-blog style-1">
+	<div class="o-p-blog__wrapper">
+
+		{% for post in site.posts %}
+
+		<div class="row">
+			<div class="col-12 o-column">
+
+				<figure class="o-p-blog__thumbnail o-ratio--16-9">
+					<img class="lazyload" data-src="images/blog-post-1.jpg" data-srcset="build/images/blog-post-1@2x.jpg 576w, images/blog-post-1.jpg 1200w" alt="Thumbnail"/>
+				</figure>
+
+				<div class="o-p-blog__topic">
+					<p><i class="fas fa-star"></i><span>Sell on Amazon</span></p>
+				</div>
+				<div class="o-p-blog__title">
+					<h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
+				</div>
+				<div class="o-p-blog__summary">
+					{{ post.excerpt }}
+				</div>
+
+			</div>
+		</div>
+
+		{% endfor %}
+
+	</div>
+</section>

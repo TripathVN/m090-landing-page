@@ -1,0 +1,45 @@
+/**
+ * Parallax
+ * -------------------------------------------------- */
+
+.o-parallax {
+  height: 40.625rem; /*650px*/
+  overflow: hidden;
+
+  &__wrapper {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    text-align: center;
+    color: $white;
+  }
+
+  /*Content Group Override*/
+  .o-content-group {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    transform: translateY(-50%);
+
+    &__title {
+
+    }
+
+    &__caption {
+
+    }
+
+    &__action {
+
+    }
+  }
+
+  &__background {
+    height: 200%;
+    background-position: center;
+    position: relative;
+    top: -100%;
+  }
+}

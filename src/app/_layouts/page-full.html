@@ -1,0 +1,37 @@
+---
+layout: index
+---
+
+{% include _site/site-header.html params=page.header %}
+
+<section id="site-content" class="site-content">
+
+	<div class="container-fluid o-no-padding">
+		<div class="row no-gutters">
+			<div class="col-12 o-column">
+
+				{% if layout.page-top or page.page-top %}
+
+					{% include _page/page-top.html %}
+
+				{% endif %}
+
+				<section id="o-page-main" class="o-page-main">
+					<div class="o-page-main__wrapper">
+
+						{{ content }}
+
+					</div>
+				</section><!--page-main-->
+
+				{% include _page/page-bottom.html %}
+
+			</div>
+		</div>
+	</div>
+
+</section>
+<!--!site-content-->
+
+{% include _site/site-footer.html %}
+

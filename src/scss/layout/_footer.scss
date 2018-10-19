@@ -1,0 +1,33 @@
+/**
+ * Footer
+ * -------------------------------------------------- */
+
+footer.site-footer {
+  background-color: lighten($black, 5);
+
+  .o-footer-top {
+
+  }
+
+  .o-footer-main {
+    padding: 72px 0;
+  }
+
+  .o-footer-bottom {
+    background-color: $black;
+    padding: 1rem 0;
+
+    /*Copyright Override*/
+    .o-copyright {
+      p {
+        margin-bottom: 0;
+        font-size: 0.75rem;
+        color: $white;
+      }
+    }
+
+    .o-footer-navigation {
+      /* in navigation.scss */
+    }
+  }
+}

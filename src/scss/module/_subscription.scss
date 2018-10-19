@@ -1,0 +1,57 @@
+/**
+ * Subscription
+ * -------------------------------------------------- */
+
+.o-subscription {
+
+  &__wrapper {
+
+  }
+
+  /*Content Group Override*/
+  .o-content-group {
+
+    &__title {
+    }
+
+    &__caption {
+    }
+
+    &__action {
+
+    }
+  }
+
+  &__form {
+    form {
+      background-color: $primary;
+      color: $white;
+
+      label {
+        font-size: 0.875rem; /*14px*/
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+
+      .form-check {
+        .form-check-label {
+          font-size: 0.75rem; /*12px*/
+          font-weight: normal;
+        }
+      }
+
+      small {
+        margin-top: 1rem;
+        line-height: 1rem;
+        color: $white !important;
+      }
+
+      button {
+        background-color: $white;
+        font-weight: 700;
+        color: $primary;
+      }
+
+    }
+  }
+}
