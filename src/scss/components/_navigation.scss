@@ -4,12 +4,38 @@
 
 /* Top Navigation */
 .o-top-navigation {
+  background-color: $blue;
+
   &__wrapper {
 
   }
 
   .o-top-menu {
 
+  }
+
+  nav.site-navigation--top {
+    padding: 0;
+  }
+
+  ul.navbar-nav {
+    li.nav-item {
+      margin-bottom: 0;
+
+      a.nav-link {
+        font-size: 12px;
+        font-weight: 700;
+        color: $white;
+        transition: all 200ms ease;
+
+        &:hover,
+        &:active,
+        &:focus {
+          color: rgba(255, 255, 255, 0.75);
+          text-decoration: none;
+        }
+      }
+    }
   }
 }
 
@@ -93,7 +119,7 @@
 
   .o-footer-menu {
     .nav {
-      flex-direction: row-reverse;
+      flex-direction: column;
     }
   }
 }

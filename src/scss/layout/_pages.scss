@@ -6,6 +6,7 @@
   background-color: $gray-100;
 
   &__wrapper {
+    padding: 4rem 0;
   }
 
   &__block {
@@ -18,17 +19,42 @@
 
       li {
         margin: 0;
+
+        a {
+          text-transform: uppercase;
+        }
       }
     }
   }
 }
 
 .o-page-main {
+  background-color: $white;
+
   &__wrapper {
-    background-color: $white;
+    padding: 6rem 0;
   }
 }
 
 .o-page-bottom {
   background-color: $gray-100;
+}
+
+.home {
+  .o-page-top {
+    &__wrapper {
+
+    }
+  }
+  .o-page-main {
+    &__wrapper {
+      padding: 0;
+    }
+  }
+
+  .o-page-bottom {
+    &__wrapper {
+
+    }
+  }
 }

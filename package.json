@@ -68,7 +68,7 @@
     "autoprefixer": "postcss -u autoprefixer -r dist/css/*",
     "scss": "node-sass --output-style compressed -o dist/css src/scss/styles.scss",
     "webpack": "webpack",
-    "imagemin": "imagemin src/images/* -o dist/images",
+    "imagemin": "imagemin src/images/**/* -o dist/images",
     "serve": "browser-sync start --server --files \"dist/css/*.css, dist/js/*.js, dist/images/*, dist/*.html, !node_modules/**/*.html\"",
     "jekyll": "bundle exec jekyll build --watch",
     "build:css": "run-s scss autoprefixer",

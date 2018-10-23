@@ -2,17 +2,14 @@ title: Main Navigation
 
 main-navigation:
 
-- title: Home
+- title: Trang chủ
   url: index.html
 
-- title: Elements
-  url: elements.html
+- title: Về M090
+  url: about.html
 
-- title: Blogs
-  url: blogs.html
+- title: Tin tức
+  url: news.html
 
-- title: Typography
-  url: index.html
-
-- title: Contact
+- title: Liên hệ
   url: contact.html
