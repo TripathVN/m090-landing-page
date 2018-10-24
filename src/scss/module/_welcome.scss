@@ -3,7 +3,7 @@
  * -------------------------------------------------- */
 
 .o-welcome {
-  margin-bottom: 64px;
+  margin-bottom: 94px;
   padding-top: 64px;
 
   &__wrapper {
@@ -14,18 +14,18 @@
   &__title {
 
     .title {
-      margin-bottom: 24px;
+      margin-bottom: 16px;
       font-size: 48px;
       font-weight: 300;
-      text-transform: capitalize;
+      text-transform: inherit;
       color: $gray-900;
     }
 
     .summary {
+      margin-bottom: 0;
       padding: 0 48px;
       font-size: 30px;
-      font-weight: 300;
-      margin-bottom: 0;
+      font-weight: 200;
       color: $gray-900;
     }
   }

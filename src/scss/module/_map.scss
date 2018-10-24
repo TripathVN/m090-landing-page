@@ -22,7 +22,9 @@
   }
 
   &__left {
-
+    background-color: $white;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
   }
 
   &__right {
@@ -30,7 +32,7 @@
 
     figure.o-map-svg {
       margin: 0 auto;
-      max-width: 400px;
+      max-width: 300px;
     }
   }
 
@@ -57,24 +59,25 @@
     }
 
     &.item1 {
-      left: 190px;
+      top: -5%;
+      left: 35%;
     }
 
     &.item2 {
-      top: 200px;
-      left: 220px;
+      top: 18%;
+      left: 40%;
     }
 
     &.item3 {
-      top: 400px;
+      top: 35%;
+      right: 12%;
       left: unset;
-      right: 50px
     }
 
     &.item4 {
       top: unset;
-      bottom: 100px;
-      left: 230px;
+      bottom: 10%;
+      left: 40%;
     }
   }
 
@@ -91,10 +94,73 @@
   }
 
   &__summary {
-    margin-bottom: 16px;
 
     p {
       margin-bottom: 0;
+    }
+
+    h3 {
+      margin-bottom: 0;
+      font-weight: 700;
+      color: $white;
+    }
+
+    h6 {
+      margin-bottom: 0;
+      font-size: 14px;
+      font-weight: 300;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.75);
+    }
+
+    figure {
+      width: 150px;
+      height: 150px;
+      border: 6px solid $blue;
+      display: inline-flex;
+      border-radius: 50%;
+      overflow: hidden;
+      margin-bottom: 0;
+    }
+
+    &--profile {
+      display: flex;
+      flex-direction: row;
+      background-color: $blue;
+      padding: 0 36px;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+    }
+
+    &--left {
+      margin-top: -75px;
+    }
+
+    &--right {
+      flex: 1;
+      padding: 18px 0 18px 18px;
+    }
+
+    &--testimonial {
+      padding: 30px 36px;
+
+      p.summary {
+        position: relative;
+        font-size: 16px;
+        font-weight: 300;
+
+        //&:after {
+        //  content: "\f10d";
+        //  position: absolute;
+        //  left: 0;
+        //  top: 0;
+        //  font-family: 'Font Awesome\ 5 Free';
+        //  font-size: 72px;
+        //  font-weight: 900;
+        //  line-height: 1;
+        //  color: $blue;
+        //}
+      }
     }
   }
 }

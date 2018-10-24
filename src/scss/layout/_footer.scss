@@ -11,6 +11,31 @@ footer.site-footer {
 
   .o-footer-main {
     padding: 6rem 0;
+
+    .title {
+      color: $white;
+      font-size: 30px;
+      text-transform: capitalize;
+      font-weight: 300;
+      margin-bottom: 6px;
+    }
+
+    p {
+      color: rgba(255, 255, 255, 0.75);
+      margin-bottom: 0;
+    }
+
+    &__address {
+      margin-bottom: 21px;
+    }
+
+    &__about {
+
+    }
+
+    &__social {
+
+    }
   }
 
   .o-footer-bottom {

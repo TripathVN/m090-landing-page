@@ -32,8 +32,9 @@
     margin-bottom: 26px;
 
     h1 {
+      margin-bottom: -2px;
       text-transform: uppercase;
-      font-weight: 700;
+      font-weight: 900;
       color: $white;
     }
   }
@@ -44,7 +45,7 @@
     p {
       font-size: 1rem;
       font-weight: 300;
-      line-height: 1.75rem;
+      line-height: 1.7;
     }
   }
 
@@ -63,6 +64,19 @@
 
     p {
       margin-bottom: 0;
+      line-height: 1.7;
+    }
+
+    &:after {
+      content: "\f0d7";
+      position: absolute;
+      right: 48px;
+      bottom: -21px;
+      font-family: "Font Awesome\ 5 Free";
+      font-size: 36px;
+      font-weight: 900;
+      line-height: 1;
+      color: $black;
     }
 
     &.red {
@@ -74,6 +88,10 @@
       left: 0;
       padding: 12px 16px;
       border-radius: 5px;
+
+      &:after {
+        color: $red;
+      }
     }
 
     &.blue {
@@ -85,6 +103,12 @@
       right: 0;
       padding: 12px 16px;
       border-radius: 5px;
+
+      &:after {
+        left: 48px;
+        right: unset;
+        color: $blue;
+      }
     }
 
     &.yellow {
@@ -96,6 +120,10 @@
       left: 0;
       padding: 12px 16px;
       border-radius: 5px;
+
+      &:after {
+        color: $yellow;
+      }
     }
   }
 }
