@@ -288,14 +288,14 @@ h6 {
     &:before {
       content: '';
       width: 104%;
-      height: 0.9375rem; /*15px*/
+      height: 1.5rem; /*15px*/
       margin: 0;
       display: block;
       background-color: $secondary;
       border: none;
       position: absolute;
       left: -2%;
-      bottom: 0.75rem; /*12px*/
+      bottom: 0.45rem; /*12px*/
       z-index: -1;
     }
   }

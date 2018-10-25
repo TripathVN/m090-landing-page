@@ -3,14 +3,21 @@
  * -------------------------------------------------- */
 
 .o-page-top {
-  background-color: $gray-100;
+  background: linear-gradient(#ddecee, #f8fbfc);
 
   &__wrapper {
-    padding: 4rem 0;
+    padding: 6rem 0 2rem 0;
   }
 
   &__block {
 
+  }
+
+  &__title {
+    .title {
+      text-transform: uppercase;
+      font-weight: 900;
+    }
   }
 
   .o-breadcrumb {
@@ -19,9 +26,33 @@
 
       li {
         margin: 0;
+        padding-left: 8px;
+        position: relative;
+        margin-right: 14px;
+        font-weight: 700;
+
+        &:before {
+          content: "\f0da";
+          position: absolute;
+          top: 50%;
+          left: 0;
+          font-family: "Font Awesome\ 5 Free";
+          font-size: 12px;
+          line-height: 1;
+          font-weight: 900;
+          color: $gray-800;
+          transform: translateY(-50%);
+        }
+
+        &:first-child {
+          padding-left: 0;
+          &:before {
+            display: none;
+          }
+        }
 
         a {
-          text-transform: uppercase;
+          text-transform: capitalize;
         }
       }
     }

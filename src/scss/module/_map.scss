@@ -3,7 +3,7 @@
  * -------------------------------------------------- */
 
 .o-map {
-  background-color: #dfedf9;
+  background-color: #edf4fe;
   padding: 64px 0;
 
   ul {
@@ -22,9 +22,11 @@
   }
 
   &__left {
+    width: 500px;
+    margin: 0 auto;
     background-color: $white;
     border-radius: 5px;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
   }
 
   &__right {
@@ -97,10 +99,13 @@
 
     p {
       margin-bottom: 0;
+      font-family: $headings-font-family;
+      font-weight: 300;
     }
 
     h3 {
       margin-bottom: 0;
+      font-size: 30px;
       font-weight: 700;
       color: $white;
     }
@@ -116,7 +121,7 @@
     figure {
       width: 150px;
       height: 150px;
-      border: 6px solid $blue;
+      border: 10px solid $red;
       display: inline-flex;
       border-radius: 50%;
       overflow: hidden;
@@ -126,19 +131,19 @@
     &--profile {
       display: flex;
       flex-direction: row;
-      background-color: $blue;
+      background: linear-gradient(#192b58, #263994);
       padding: 0 36px;
       border-top-left-radius: 5px;
       border-top-right-radius: 5px;
     }
 
     &--left {
-      margin-top: -75px;
+      margin-top: -50px;
     }
 
     &--right {
       flex: 1;
-      padding: 18px 0 18px 18px;
+      padding: 24px 0 24px 24px;
     }
 
     &--testimonial {
@@ -148,18 +153,18 @@
         position: relative;
         font-size: 16px;
         font-weight: 300;
+        z-index: 1;
 
-        //&:after {
-        //  content: "\f10d";
-        //  position: absolute;
-        //  left: 0;
-        //  top: 0;
-        //  font-family: 'Font Awesome\ 5 Free';
-        //  font-size: 72px;
-        //  font-weight: 900;
-        //  line-height: 1;
-        //  color: $blue;
-        //}
+        &:after {
+          content: "";
+          background: url(../images/quote.svg) no-repeat center center;
+          width: 150px;
+          height: 150px;
+          position: absolute;
+          left: -100px;
+          top: -35px;
+          z-index: -1;
+        }
       }
     }
   }

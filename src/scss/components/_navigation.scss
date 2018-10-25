@@ -4,7 +4,6 @@
 
 /* Top Navigation */
 .o-top-navigation {
-  background-color: $blue;
 
   &__wrapper {
 
@@ -26,7 +25,40 @@
         font-size: 12px;
         font-weight: 700;
         color: $white;
+        padding-left: 22px;
+        position: relative;
+        margin-left: 14px;
         transition: all 200ms ease;
+
+        &:before {
+          content: "";
+          position: absolute;
+          top: 50%;
+          left: 0;
+          font-family: "Font Awesome\ 5 Free";
+          font-size: 12px;
+          line-height: 1;
+          font-weight: 900;
+          color: $white;
+          transform: translateY(-50%);
+        }
+
+        &.sign-in {
+          &:before {
+            content: "\f007";
+          }
+        }
+
+        &.sign-up {
+          &:before {
+            content: "\f234";
+          }
+        }
+
+        &:before {
+          content: "";
+
+        }
 
         &:hover,
         &:active,
@@ -77,18 +109,36 @@
 
       &.support {
         background-color: #dc3545;
+        box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
         border-radius: 30px;
         padding: 14px 26px;
         font-size: 24px;
         color: $white;
 
         a {
-          margin-left: 8px;
-          line-height: 1;
+          padding-left: 36px;
+          position: relative;
+          display: inline-block;
           font-size: 24px;
           font-weight: 700;
-          display: inline-block;
+          line-height: 1;
           color: $white;
+
+          &:before {
+            content: "\f095";
+            background-color: $white;
+            padding: 17px;
+            border-radius: 50%;
+            position: absolute;
+            top: 50%;
+            left: -27px;
+            font-family: "Font Awesome\ 5 Free";
+            font-size: 18px;
+            line-height: 1;
+            font-weight: 900;
+            color: #dc3545;
+            transform: translateY(-50%);
+          }
 
           &:hover,
           &:focus,

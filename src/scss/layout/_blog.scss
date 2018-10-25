@@ -7,7 +7,6 @@
   .o-page-top {
 
   }
-
 }
 
 /* Blog Section */
@@ -15,7 +14,15 @@
 
   /* Overall on Blog Page */
   &__wrapper {
+    .o-column {
+      margin-bottom: 48px;
+    }
+  }
 
+  &__block {
+    padding: 24px;
+    border-radius: 5px;
+    border: 1px solid $gray-300;
   }
 
   &__thumbnail {
@@ -27,11 +34,15 @@
   }
 
   &__title {
-
+    .title {
+      line-height: 2rem;
+    }
   }
 
   &__summary {
-
+    p {
+      margin-bottom: 0;
+    }
   }
 
   /* Custom on Styles */

@@ -3,7 +3,7 @@
  * -------------------------------------------------- */
 
 footer.site-footer {
-  background-color: lighten($black, 5);
+  background-color: #0f2159;
 
   .o-footer-top {
 
@@ -16,7 +16,7 @@ footer.site-footer {
       color: $white;
       font-size: 30px;
       text-transform: capitalize;
-      font-weight: 300;
+      font-weight: 200;
       margin-bottom: 6px;
     }
 
@@ -26,7 +26,12 @@ footer.site-footer {
     }
 
     &__address {
-      margin-bottom: 21px;
+
+      &.tpvn {
+        padding-bottom: 21px;
+        margin-bottom: 21px;
+        border-bottom: 1px dotted rgba(255, 255, 255, 0.25);
+      }
     }
 
     &__about {
@@ -34,19 +39,41 @@ footer.site-footer {
     }
 
     &__social {
+      .title {
+        margin-bottom: 20px;
+      }
 
+      ul {
+        margin: 0;
+        padding: 0;
+
+        li {
+          list-style-type: none;
+
+          a {
+            padding: 11px 19px;
+            background-color: $white;
+            border-radius: 50%;
+            font-size: 24px;
+            line-height: 1;
+            color: #0f2159;
+          }
+        }
+      }
     }
   }
 
   .o-footer-bottom {
-    background-color: $black;
-    padding: 1rem 0;
+    background-color: #0f2159;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 1.2rem 0;
 
     /*Copyright Override*/
     .o-copyright {
+
       p {
         margin-bottom: 0;
-        font-size: 0.75rem;
+        font-size: 0.875rem;
         color: $white;
       }
     }

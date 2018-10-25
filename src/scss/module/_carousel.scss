@@ -3,7 +3,7 @@
  * -------------------------------------------------- */
 
 .o-carousel {
-  background: radial-gradient(#19516b, #112751);
+  background: radial-gradient(at bottom, #0f97c9, #13284d);
 
   &__wrapper {
     color: $white;
@@ -64,7 +64,10 @@
 
     p {
       margin-bottom: 0;
+      font-family: $headings-font-family;
+      font-weight: 300;
       line-height: 1.7;
+      font-size: 14px;
     }
 
     &:after {
@@ -81,7 +84,7 @@
 
     &.red {
       width: 300px;
-      background-color: $red;
+      background-color: #cd3649;
       box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
       position: absolute;
       top: 25%;
@@ -90,13 +93,13 @@
       border-radius: 5px;
 
       &:after {
-        color: $red;
+        color: #cd3649;
       }
     }
 
     &.blue {
       width: 300px;
-      background-color: $blue;
+      background-color: #243580;
       box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
       position: absolute;
       top: 35%;
@@ -107,13 +110,13 @@
       &:after {
         left: 48px;
         right: unset;
-        color: $blue;
+        color: #243580;
       }
     }
 
     &.yellow {
       width: 300px;
-      background-color: $yellow;
+      background-color: #e89b1c;
       box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
       position: absolute;
       bottom: 45%;
@@ -122,7 +125,7 @@
       border-radius: 5px;
 
       &:after {
-        color: $yellow;
+        color: #e89b1c;
       }
     }
   }
