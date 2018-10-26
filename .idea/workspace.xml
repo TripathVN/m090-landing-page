@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Fix bug ScrollMagic Parallax on Maps">
+    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Add Customize Tippy.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="$PROJECT_DIR$/dist/js/index.min.js" />
-      <change beforePath="$PROJECT_DIR$/src/app/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/js/index.js" afterPath="$PROJECT_DIR$/src/js/index.js" />
-      <change beforePath="$PROJECT_DIR$/src/scss/styles.scss" afterPath="$PROJECT_DIR$/src/scss/styles.scss" />
+      <change beforePath="$PROJECT_DIR$/src/js/scrollmagic.js" afterPath="$PROJECT_DIR$/src/js/scrollmagic.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,14 +40,22 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/index.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="816">
-                  <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-                  <folding>
-                    <element signature="e#15#34#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="85">
+                  <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="scrollmagic.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="391">
+                  <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -282,11 +285,11 @@
         <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
         <option value="$PROJECT_DIR$/src/scss/layout/_footer.scss" />
-        <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
         <option value="$PROJECT_DIR$/src/scss/vendors/_tippy.scss" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/src/app/index.html" />
         <option value="$PROJECT_DIR$/src/js/index.js" />
+        <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
       </list>
     </option>
   </component>
@@ -398,7 +401,7 @@
       <workItem from="1539740794588" duration="28694000" />
       <workItem from="1539860053673" duration="24421000" />
       <workItem from="1540179296514" duration="1754000" />
-      <workItem from="1540260221296" duration="50363000" />
+      <workItem from="1540260221296" duration="50892000" />
     </task>
     <task id="LOCAL-00001" summary="PHPStorm">
       <created>1539944009774</created>
@@ -442,11 +445,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540524723844</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Customize Tippy.js">
+      <created>1540526362936</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540526362936</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110374000" />
+    <option name="totallyTimeSpent" value="110903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,7 +528,8 @@
     <MESSAGE value="Update major styles" />
     <MESSAGE value="Update ScrollMagic Parallax on Maps" />
     <MESSAGE value="Fix bug ScrollMagic Parallax on Maps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix bug ScrollMagic Parallax on Maps" />
+    <MESSAGE value="Add Customize Tippy.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Customize Tippy.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -854,16 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="64" lean-forward="false" selection-start-line="20" selection-start-column="64" selection-end-line="20" selection-end-column="64" />
-          <folding>
-            <element signature="e#15#58#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
@@ -933,11 +934,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-          <folding>
-            <element signature="e#15#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
