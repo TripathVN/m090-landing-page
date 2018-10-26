@@ -5,7 +5,7 @@ import 'bootstrap';
 import tippy from 'tippy.js';
 
 import SmoothScroll from 'smoothscroll-for-websites';
-import ScrollMagic from './scrollmagic';
+import SM from './scrollmagic';
 
 import 'lazysizes';
 
@@ -16,7 +16,7 @@ OM.smoothscroll = function () {
 };
 
 OM.parallax = function () {
-	ScrollMagic.parallax();
+    SM.parallax();
 };
 
 $(document).ready(function () {

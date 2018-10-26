@@ -1,21 +1,25 @@
 'use strict';
 
+import {TimelineMax, TweenMax} from 'gsap';
 import ScrollMagic from 'scrollmagic';
 import 'imports-loader?define=>false!scrollmagic/scrollmagic/uncompressed/plugins/animation.gsap';
 
 const SM = {};
 
-SM.parallax = function() {
-	let controller = new ScrollMagic.Controller({
-		globalSceneOptions: {
-			triggerHook: "onEnter",
-			duration: "200%"
-		}
-	});
+SM.parallax = function () {
 
-	new ScrollMagic.Scene({triggerElement: "#o-parallax"})
-			.setTween("#o-parallax .o-parallax__background", {y: "70%", ease: Linear.easeNone})
-			.addTo(controller);
+    let tween = new TimelineMax()
+        .add([
+            TweenMax.fromTo("#o-parallax figure", 1, {y: 35}, {y: -135, ease: Linear.easeNone}),
+            TweenMax.fromTo("#o-parallax .o-map__summary--right", 1, {y: 115}, {y: -285, ease: Linear.easeNone}),
+            TweenMax.fromTo("#o-parallax .o-map__summary--testimonial .summary", 1, {y: 75}, {y: -195, ease: Linear.easeNone})
+        ]);
+
+    let controller = new ScrollMagic.Controller({vertical: true});
+
+    new ScrollMagic.Scene({triggerElement: "#o-map", duration: $(window).height()})
+        .setTween(tween)
+        .addTo(controller);
 };
 
 export default SM;
