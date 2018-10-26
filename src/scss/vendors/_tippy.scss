@@ -2,17 +2,52 @@
  * Tippy
  * -------------------------------------------------- */
 
-/* If `animateFill: true` (default) */
-.tippy-tooltip.m090-theme .tippy-backdrop {
-  background-color: yellow;
-  font-weight: bold;
-  color: #333;
+.tippy-tooltip.m090-theme {
+  position: relative;
+  background-color: $white;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+  padding: 24px 16px;
+  font-family: $headings-font-family;
+  font-size: 16px;
+  font-weight: 300;
+  color: $gray-700;
+  z-index: 1;
+
+  &:after {
+    content: "";
+    background: url(../images/quote.svg) no-repeat center center;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: -65px;
+    top: -30px;
+    z-index: -1;
+  }
 }
 
-/* If `animateFill: false` */
 .tippy-tooltip.m090-theme {
-  background-color: yellow;
-  border: 2px solid orange;
-  font-weight: bold;
-  color: #333;
+  .tippy-backdrop {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    background-color: $white;
+    font-family: $headings-font-family;
+    padding: 24px;
+    font-size: 16px;
+    font-weight: 300;
+    color: $gray-700;
+  }
+  .tippy-roundarrow {
+    fill: $white;
+  }
+}
+
+/* Default (sharp) arrow */
+.tippy-popper[x-placement^='top'],
+.tippy-popper[x-placement^='bottom'],
+.tippy-popper[x-placement^='left'],
+.tippy-popper[x-placement^='right'] {
+  .tippy-tooltip.m090-theme {
+    .tippy-arrow {
+      border-top-color: $white;
+    }
+  }
 }

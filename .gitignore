@@ -1,5 +1,3 @@
-_bku
-
 .sass-cache
 
 .jekyll-metadata
@@ -8,4 +6,4 @@ _bku
 
 node_modules
 
-vendor
+package-lock.json

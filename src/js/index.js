@@ -21,9 +21,37 @@ OM.parallax = function () {
 };
 
 OM.tippy = function () {
-    tippy('.tippy', {
-        content: "DMM",
+    tippy('#tippy-duyld', {
+        content: "Ứng dụng M090 làm một phần không thể thiếu trong kế hoạch chi tiêu hàng tháng của gia đình tôi",
         theme: 'm090',
+        arrow: true,
+        arrowType: 'round',
+        size: 'large',
+        duration: 250,
+        animation: 'shift-toward'
+    });
+    tippy('#tippy-tuanna', {
+        content: "Tôi có thể dễ dàng tạo gói cước rất phù hợp với cá nhân",
+        theme: 'm090',
+        arrow: true,
+        arrowType: 'round',
+        size: 'large',
+        duration: 250,
+        animation: 'shift-toward'
+    });
+    tippy('#tippy-longcq', {
+        content: "Các thông tin khuyến mãi từ MobiFone luôn được cập nhật ngay lập tức",
+        theme: 'm090',
+        arrow: true,
+        arrowType: 'round',
+        size: 'large',
+        duration: 250,
+        animation: 'shift-toward'
+    });
+    tippy('#tippy-lamncn', {
+        content: "Đây là một số ít ứng dụng khiến tôi phải mở hàng ngày",
+        theme: 'm090',
+        arrow: true,
         arrowType: 'round',
         size: 'large',
         duration: 250,
