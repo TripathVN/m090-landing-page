@@ -1,24 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
+    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Fix &amp; update Tippy.js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/about.html" afterPath="$PROJECT_DIR$/dist/about.html" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/main.css" afterPath="$PROJECT_DIR$/dist/assets/main.css" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/minima-social-icons.svg" afterPath="$PROJECT_DIR$/dist/assets/minima-social-icons.svg" />
-      <change beforePath="$PROJECT_DIR$/dist/contact.html" afterPath="$PROJECT_DIR$/dist/contact.html" />
-      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="$PROJECT_DIR$/dist/js/index.min.js" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" />
-      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" />
-      <change beforePath="$PROJECT_DIR$/dist/news.html" afterPath="$PROJECT_DIR$/dist/news.html" />
+      <change beforePath="$PROJECT_DIR$/dist/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-114x114.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-120x120.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-57x57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-60x60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-76x76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/.sprockets-manifest-3c6810a017912edee6da14fabc9b0649.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/minima-social-icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/app-store-badge.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/arrow.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/bank.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/bui-son-nam.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/contacts.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/google-play-badge.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/lightbulb.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/location.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/logo@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/map-profile.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/message.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/mobile-mock-up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/profile.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/quote.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/images/vn-map.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/news.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/aos/aos.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/aos/aos.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/ev-emitter/ev-emitter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/all.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/all.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/brands.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/brands.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/fa-svg-with-js.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/fontawesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/fontawesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/regular.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/regular.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/solid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/solid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/svg-with-js.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/svg-with-js.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/v4-shims.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/css/v4-shims.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/all.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/all.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/brands.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/brands.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-brands.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-brands.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-regular.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-regular.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-solid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-solid.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-v4-shims.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-v4-shims.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome-all.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome-all.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/regular.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/regular.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/solid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/solid.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/v4-shims.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/js/v4-shims.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/gsap/TweenMax.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/jquery-mousewheel/jquery.mousewheel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/jquery/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/lazysizes/lazysizes.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/popper/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/scrollmagic/ScrollMagic.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/scrollmagic/plugins/animation.gsap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/scrollmagic/plugins/animation.velocity.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/slick-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/slick.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/slick-carousel/slick.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/smoothscroll-for-websites/SmoothScroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/themes/light.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/themes/translucent.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.min.js.map" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +179,7 @@
           <file leaf-file-name="scrollmagic.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
+                <state relative-caret-position="0">
                   <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
                   <folding />
                 </state>
@@ -44,18 +189,8 @@
           <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_config.yml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/dist/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1564">
-                  <caret line="92" column="48" lean-forward="false" selection-start-line="92" selection-start-column="48" selection-end-line="92" selection-end-column="48" />
+                <state relative-caret-position="527">
+                  <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -81,7 +216,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>svg/</find>
       <find>svg</find>
       <find>images/mobile-money.svg</find>
       <find>slug</find>
@@ -111,20 +245,24 @@
       <find>social</find>
       <find>dist</find>
       <find>test</find>
+      <find>href=&quot;/dist/</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
       <replace>o-footer-main</replace>
+      <replace>href=&quot;</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page</dir>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\dist\vendors</dir>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\dist</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="upstream-develop" />
       </map>
     </option>
     <push-targets>
@@ -135,7 +273,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
@@ -186,6 +323,7 @@
         <option value="$PROJECT_DIR$/src/app/index.html" />
         <option value="$PROJECT_DIR$/src/js/index.js" />
         <option value="$PROJECT_DIR$/src/scss/vendors/_tippy.scss" />
+        <option value="$PROJECT_DIR$/dist/about.html" />
       </list>
     </option>
   </component>
@@ -227,7 +365,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -236,15 +373,11 @@
               <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
-              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -350,7 +483,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115303000" />
+    <option name="totallyTimeSpent" value="115468000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,18 +498,20 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23187633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28338763" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28338763" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28369564" sideWeight="0.510661" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34130436" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28369564" sideWeight="0.48933902" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23187633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2597826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28338763" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -385,13 +520,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31847826" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28369564" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22921109" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2597826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -473,7 +607,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/app/archive-products.html" />
     <entry file="file://$PROJECT_DIR$/src/app/archive-blogs-1.html" />
     <entry file="file://$PROJECT_DIR$/src/app/_layouts/page-full.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -561,13 +694,6 @@
         <state relative-caret-position="365">
           <caret line="92" column="43" lean-forward="false" selection-start-line="92" selection-start-column="43" selection-end-line="92" selection-end-column="43" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="103" column="85" lean-forward="false" selection-start-line="103" selection-start-column="85" selection-end-line="103" selection-end-column="85" />
         </state>
       </provider>
     </entry>
@@ -722,10 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3009">
           <caret line="179" column="51" lean-forward="false" selection-start-line="179" selection-start-column="46" selection-end-line="179" selection-end-column="51" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
-            <element signature="n#figure#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#3;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,9 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
-          <folding>
-            <element signature="e#15#34#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,11 +877,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1751">
           <caret line="112" column="28" lean-forward="false" selection-start-line="112" selection-start-column="28" selection-end-line="112" selection-end-column="28" />
-          <folding>
-            <element signature="e#1343#1407#0" expanded="false" />
-            <element signature="e#1624#1658#0" expanded="false" />
-            <element signature="e#1677#1732#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,12 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="76" column="20" lean-forward="false" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
-          <folding>
-            <element signature="e#162#208#0" expanded="false" />
-            <element signature="e#220#247#0" expanded="false" />
-            <element signature="e#260#328#0" expanded="false" />
-            <element signature="e#340#399#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,7 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -792,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -800,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,18 +912,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="159" column="17" lean-forward="false" selection-start-line="159" selection-start-column="17" selection-end-line="159" selection-end-column="17" />
-          <folding>
-            <element signature="e#584#1287#0" expanded="false" />
-            <element signature="e#1300#1478#0" expanded="false" />
-            <element signature="e#2294#2326#0" expanded="false" />
-            <element signature="e#2341#2396#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="0">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
@@ -841,10 +939,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="77" column="0" lean-forward="true" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="41" lean-forward="false" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="527">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding />
         </state>
       </provider>
