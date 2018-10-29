@@ -1,0 +1,67 @@
+/**
+ * Video
+ * -------------------------------------------------- */
+
+.o-video-boxes {
+
+  &__wrapper {
+    border-top: 1px dotted #ccc;
+    padding: 48px 0;
+  }
+
+  &__left {
+
+  }
+
+  &__right {
+  }
+
+  &__iframe {
+    position: relative;
+    display: block;
+
+    &:before {
+      content: "\f144";
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      font-family: "Font Awesome\ 5 Free";
+      font-size: 180px;
+      font-weight: 900;
+      color: $white;
+      opacity: 0.85;
+      text-shadow: 0 0 25px rgba(0,0,0,0.25);
+      transition: all 250ms ease;
+    }
+
+    &:hover,
+    &:active,
+    &:focus {
+      &:before {
+        color: $red;
+        opacity: 1;
+      }
+    }
+  }
+
+  &__title {
+    .title {
+      margin-bottom: 16px;
+      font-size: 48px;
+      font-weight: 300;
+      text-transform: inherit;
+      color: $gray-900;
+    }
+  }
+
+  &__summary {
+
+    .summary {
+      margin-bottom: 0;
+      font-size: 16px;
+      font-family: $headings-font-family;
+      font-weight: 300;
+    }
+  }
+}
