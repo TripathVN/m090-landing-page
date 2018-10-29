@@ -4,19 +4,10 @@
     <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/assets/main.css" afterPath="$PROJECT_DIR$/assets/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/minima-social-icons.svg" afterPath="$PROJECT_DIR$/assets/minima-social-icons.svg" />
       <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change beforePath="$PROJECT_DIR$/dist/about.html" afterPath="$PROJECT_DIR$/dist/about.html" />
       <change beforePath="$PROJECT_DIR$/dist/contact.html" afterPath="$PROJECT_DIR$/dist/contact.html" />
-      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/images/jump-boy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/jump-couple.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/images/map-profile.jpeg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="$PROJECT_DIR$/dist/js/index.min.js" />
       <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" />
       <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" />
       <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" />
@@ -25,9 +16,7 @@
       <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" />
       <change beforePath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" afterPath="$PROJECT_DIR$/dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" />
       <change beforePath="$PROJECT_DIR$/dist/news.html" afterPath="$PROJECT_DIR$/dist/news.html" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/index.min.js" afterPath="$PROJECT_DIR$/js/index.min.js" />
       <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" />
       <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" />
       <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" />
@@ -81,8 +70,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="382" column="42" lean-forward="false" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="42" />
+                <state relative-caret-position="374">
+                  <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
                   <folding />
                 </state>
               </provider>
@@ -108,7 +97,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fontawesome</find>
       <find>o-footer-body</find>
       <find>5px</find>
       <find>ratio--</find>
@@ -138,14 +126,17 @@
       <find>href=&quot;/dist/</find>
       <find>localhost</find>
       <find>media</find>
+      <find>&lt;link rel=&quot;stylesheet&quot; href=&quot;/</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
       <replace>o-footer-main</replace>
       <replace>href=&quot;/&quot;</replace>
       <replace>href=&quot;/</replace>
+      <replace>&lt;link rel=&quot;stylesheet&quot; href=&quot;</replace>
     </replaceStrings>
     <dirStrings>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\vendors</dir>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page</dir>
     </dirStrings>
   </component>
@@ -165,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/src/scss/layout/_product-details.scss" />
         <option value="$PROJECT_DIR$/src/scss/layout/_product-listing.scss" />
         <option value="$PROJECT_DIR$/src/scss/components/_form.scss" />
@@ -216,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/scss/module/_media.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_video.scss" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -385,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540806846757</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge branch 'develop' of https://github.com/TripathVN/m090-landing-page into upstream-master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;dist/feed.xml">
+      <created>1540807015326</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540807015326</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139237000" />
+    <option name="totallyTimeSpent" value="139386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -909,8 +907,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="382" column="42" lean-forward="false" selection-start-line="382" selection-start-column="37" selection-end-line="382" selection-end-column="42" />
+        <state relative-caret-position="374">
+          <caret line="43" column="59" lean-forward="false" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
           <folding />
         </state>
       </provider>
