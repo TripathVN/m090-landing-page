@@ -6,6 +6,8 @@ import tippy from 'tippy.js';
 
 import SmoothScroll from 'smoothscroll-for-websites';
 
+import Parallax from 'parallax-js'
+
 import SM from './scrollmagic';
 
 import 'lazysizes';
@@ -20,9 +22,21 @@ OM.parallax = function () {
     SM.parallax();
 };
 
+OM.carouselParallax = function () {
+    let scene = document.getElementById("o-scene");
+    if (scene) {
+        new Parallax(scene, {
+            relativeInput: true
+        });
+    }
+};
+
+OM.carouselParallax();
+
 OM.tippy = function () {
     tippy('#tippy-duyld', {
         content: "Ứng dụng M090 làm một phần không thể thiếu trong kế hoạch chi tiêu hàng tháng của gia đình tôi",
+        showOnInit: true,
         theme: 'm090',
         arrow: true,
         arrowType: 'round',
