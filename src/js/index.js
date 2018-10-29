@@ -12,6 +12,8 @@ import SM from './scrollmagic';
 
 import 'lazysizes';
 
+import '@fancyapps/fancybox';
+
 const OM = {};
 
 OM.smoothscroll = function () {
@@ -36,7 +38,6 @@ OM.carouselParallax();
 OM.tippy = function () {
     tippy('#tippy-duyld', {
         content: "Ứng dụng M090 làm một phần không thể thiếu trong kế hoạch chi tiêu hàng tháng của gia đình tôi",
-        showOnInit: true,
         theme: 'm090',
         arrow: true,
         arrowType: 'round',
@@ -64,6 +65,7 @@ OM.tippy = function () {
     });
     tippy('#tippy-lamncn', {
         content: "Đây là một số ít ứng dụng khiến tôi phải mở hàng ngày",
+        showOnInit: true,
         theme: 'm090',
         arrow: true,
         arrowType: 'round',

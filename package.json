@@ -28,6 +28,7 @@
     "jquery": "^3.2.1"
   },
   "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.2",
     "@fortawesome/fontawesome-free": "^5.4.1",
     "aos": "^2.2.0",
     "autoprefixer": "^7.1.6",
