@@ -3,26 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
       <change beforePath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" afterPath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" />
-      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/lien-he/index.html" afterPath="$PROJECT_DIR$/dist/lien-he/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/tin-tuc/index.html" afterPath="$PROJECT_DIR$/dist/tin-tuc/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/blog.html" afterPath="$PROJECT_DIR$/src/app/_layouts/blog.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/post.html" afterPath="$PROJECT_DIR$/src/app/_layouts/post.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/about.html" afterPath="$PROJECT_DIR$/src/app/about.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/contact.html" afterPath="$PROJECT_DIR$/src/app/contact.html" />
       <change beforePath="$PROJECT_DIR$/src/app/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/news.html" afterPath="$PROJECT_DIR$/src/app/news.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,71 +29,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.71794873">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/app/contact.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
-                  <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/app/_layouts/blog.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="493">
-                  <caret line="29" column="70" lean-forward="false" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/app/about.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/app/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/app/news.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+                <state relative-caret-position="442">
+                  <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="532">
+                  <caret line="285" column="0" lean-forward="true" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -125,8 +69,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>ratio</find>
-      <find>fontawesome</find>
       <find>o-footer-body</find>
       <find>5px</find>
       <find>ratio--</find>
@@ -155,6 +97,8 @@
       <find>vn-</find>
       <find>asset_url</find>
       <find>o-page-top__caption</find>
+      <find>localhost:3000</find>
+      <find>dist.</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
@@ -164,6 +108,7 @@
     <dirStrings>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page</dir>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page\src</dir>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\dist</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -223,16 +168,16 @@
         <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
         <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/src/app/contact.html" />
         <option value="$PROJECT_DIR$/src/app/about.html" />
-        <option value="$PROJECT_DIR$/src/app/index.html" />
         <option value="$PROJECT_DIR$/src/app/news.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/src/app/index.html" />
       </list>
     </option>
   </component>
@@ -487,11 +432,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540976105171</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fix bug Single Post Layout">
+      <created>1540977191271</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540977191271</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144441000" />
+    <option name="totallyTimeSpent" value="146153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,11 +460,11 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32247558" sideWeight="0.40724948" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21281216" sideWeight="0.4152452" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31270358" sideWeight="0.46908316" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32247558" sideWeight="0.59275055" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21281216" sideWeight="0.5847548" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21002132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -610,7 +562,8 @@
     <MESSAGE value="Update Parallax.js for Carousel" />
     <MESSAGE value="Update absolute_url" />
     <MESSAGE value="Fix bug background-image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix bug background-image" />
+    <MESSAGE value="Fix bug Single Post Layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bug Single Post Layout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -792,17 +745,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/contact.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -878,14 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -902,14 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -922,30 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -974,6 +876,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_layouts/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -982,10 +892,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-51">
+            <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="323">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="285" column="0" lean-forward="true" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
           <folding />
         </state>
       </provider>
