@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Update Parallax.js for Carousel">
+    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/dist/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/main.css" afterPath="$PROJECT_DIR$/dist/assets/main.css" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/minima-social-icons.svg" afterPath="$PROJECT_DIR$/dist/assets/minima-social-icons.svg" />
-      <change beforePath="$PROJECT_DIR$/dist/contact.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="$PROJECT_DIR$/dist/js/index.min.js" />
-      <change beforePath="$PROJECT_DIR$/dist/news.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" afterPath="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/head.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/index.html" afterPath="$PROJECT_DIR$/src/app/_layouts/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/post.html" afterPath="$PROJECT_DIR$/src/app/_layouts/post.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/about.html" afterPath="$PROJECT_DIR$/src/app/about.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/contact.html" afterPath="$PROJECT_DIR$/src/app/contact.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/news.html" afterPath="$PROJECT_DIR$/src/app/news.html" />
-      <change beforePath="$PROJECT_DIR$/src/scss/base/_elements.scss" afterPath="$PROJECT_DIR$/src/scss/base/_elements.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/base/_global.scss" afterPath="$PROJECT_DIR$/src/scss/base/_global.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/layout/_pages.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
       <change beforePath="$PROJECT_DIR$/src/scss/module/_map.scss" afterPath="$PROJECT_DIR$/src/scss/module/_map.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/styles.scss" afterPath="$PROJECT_DIR$/src/scss/styles.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,11 +67,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="site-header-1.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="site-header-1.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="20" column="100" lean-forward="false" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
+                <state relative-caret-position="510">
+                  <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_map.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="199">
+                  <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
                   <folding />
                 </state>
               </provider>
@@ -127,7 +107,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Sell on Amazon</find>
       <find>comment</find>
       <find>ratio</find>
       <find>fontawesome</find>
@@ -157,6 +136,7 @@
       <find>video</find>
       <find>index.min.js</find>
       <find>vn-</find>
+      <find>asset_url</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
@@ -214,7 +194,6 @@
         <option value="$PROJECT_DIR$/src/scss/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/scss/vendors/_tippy.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_parallax.scss" />
         <option value="$PROJECT_DIR$/src/js/index.js" />
@@ -235,6 +214,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/app/about.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
+        <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
       </list>
     </option>
   </component>
@@ -475,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540780707316</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Update absolute_url">
+      <created>1540976001095</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540976001095</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143250000" />
+    <option name="totallyTimeSpent" value="143363000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -596,7 +583,8 @@
     <MESSAGE value="Fix some minor bugs" />
     <MESSAGE value="Fix &amp; update Tippy.js" />
     <MESSAGE value="Update Parallax.js for Carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Parallax.js for Carousel" />
+    <MESSAGE value="Update absolute_url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update absolute_url" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -744,13 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -967,8 +948,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="100" lean-forward="false" selection-start-line="20" selection-start-column="100" selection-end-line="20" selection-end-column="100" />
+        <state relative-caret-position="510">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding />
         </state>
       </provider>
