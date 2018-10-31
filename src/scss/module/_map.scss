@@ -39,7 +39,7 @@
   }
 
   &__location {
-    background-image: url(../images/location.svg);
+    background-image: asset_url("location.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

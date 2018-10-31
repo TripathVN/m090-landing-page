@@ -1,7 +1,8 @@
 ---
-title: Tin tức
-slug: news
-description:
+title: Tin tức về M090
+slug: tin-tuc-ve-m090
+permalink: /tin-tuc/
+description: Tin tức về dự án M090
 layout: blog
 sidebar: off
 page-top: on
@@ -17,14 +18,17 @@ header: 1
             <div class="col-12 col-sm-6 col-md-4 o-column">
 
                 <div class="o-p-blog__block">
+
                     <figure class="o-p-blog__thumbnail o-ratio--16-9">
-                        <img class="lazyload" data-src="images/blog-post-1.jpg" data-srcset="build/images/blog-post-1@2x.jpg 576w, images/blog-post-1.jpg 1200w" alt="Thumbnail"/>
+                        <img class="lazyload" data-src="{{ post.featured | absolute_url }}" alt="{{ post.title }}"/>
                     </figure>
+
                     <div class="o-p-blog__title">
                         <h4 class="title">
                             <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                         </h4>
                     </div>
+
                     <div class="o-p-blog__summary">
                         {{ post.excerpt }}
                     </div>

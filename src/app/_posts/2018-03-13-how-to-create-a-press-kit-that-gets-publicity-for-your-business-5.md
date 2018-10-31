@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MobiFone cá biệt hoá chăm sóc khách hàng bằng dịch vụ M090"
-date: 2017-09-07 07:30:00 -0600
+date: 2017-09-07 07:30:00
 category: M090 MobiFone
 featured: https://dantricdn.com/thumb_w/640/2017/photo-1-1504754324270.jpg
 tags: 

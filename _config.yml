@@ -6,7 +6,7 @@ email: tudx@tripath.vn
 
 host: localhost
 
-baseurl: "dist"
+baseurl:
 url: "http://localhost:3000/dist"
 
 twitter_username: TripathVN
