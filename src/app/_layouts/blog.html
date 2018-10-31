@@ -2,7 +2,7 @@
 layout: index
 ---
 
-{% include _site/site-header.html params=page.header %}
+{% include _site/site-header.html %}
 
 <section id="site-content" class="site-content">
 
@@ -22,7 +22,7 @@ layout: index
 						<div class="container">
 							<div class="row">
 
-								{% if layout.sidebar or page.sidebar %}
+								{% if layout.sidebar or page.sidebar or post.sidebar %}
 
 								<div class="col-12 col-md-9 o-column">
 									{{ content }}
