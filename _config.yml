@@ -6,17 +6,19 @@ email: tudx@tripath.vn
 
 host: localhost
 
-baseurl: "dist"
-url: "http://localhost:3000/dist"
+baseurl:
+url: "/dist"
 
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: TripathVN
+github_username:  TripathVN
 
 markdown: kramdown
 theme: minima
 
 source: src/app
 destination: dist
+
+permalink: /:title/
 
 exclude: [scss]
 keep_files: [css, js, images, vendors]
@@ -28,8 +30,6 @@ assets:
   - _assets/images
   - _assets/js
   - _assets/video
-
-layouts_dir: ./_layouts
 
 plugins:
   - jekyll-feed

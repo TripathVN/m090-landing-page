@@ -71,7 +71,7 @@
   background-color: $gray-100;
 }
 
-.home {
+.trang-chu {
   .o-page-top {
     &__wrapper {
 
@@ -86,6 +86,64 @@
   .o-page-bottom {
     &__wrapper {
 
+    }
+  }
+}
+
+.gioi-thieu-ve-m090 {
+  .o-page-top {
+    &__wrapper {
+
+    }
+  }
+  .o-page-main {
+    &__wrapper {
+      padding: 0;
+    }
+  }
+
+  .o-page-bottom {
+    &__wrapper {
+
+    }
+  }
+
+  .o-section-carousel {
+    position: relative;
+
+    &__left {
+      .space {
+        padding: 250px;
+      }
+    }
+
+    &__right {
+      background-color: $blue;
+      .space {
+        padding: 250px;
+      }
+    }
+
+    &__content {
+      position: absolute;
+      top: 50%;
+      right: 0;
+      left: 0;
+      transform: translateY(-50%);
+
+      .title {
+        margin-bottom: 0;
+      }
+
+      figure {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .o-section-content {
+    &__wrapper {
+      padding: 80px 0;
     }
   }
 }

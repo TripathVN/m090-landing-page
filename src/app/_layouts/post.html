@@ -2,30 +2,37 @@
 layout: blog
 sidebar: off
 page-top: on
-header: 1
 ---
 
 <article class="hentry post format-standard">
-	<div class="row no-gutters">
-		<div class="col-12 o-column">
+    <div class="row no-gutters">
+        <div class="col-12 o-column">
 
-			<header class="entry-header">
-				<div class="entry-meta">
-					<p>{{ page.date }}</p>
-				</div>
-				<div class="entry-title">
-					<h3>{{ page.title }}</h3>
-				</div>
-			</header>
-			<div class="entry-content">
-				{{ content }}
-			</div>
-			<footer class="entry-footer">
+            <div class="entry-featured-image">
+                <figure>
+                    <img class="lazyload" data-src="{{ page.featured }}" alt="{{ page.title }}">
+                </figure>
+            </div>
 
-			</footer>
+            <header class="entry-header">
+                <div class="entry-meta">
+                    <p>{{ page.date }}</p>
+                </div>
+                <div class="entry-title">
+                    <h3>{{ page.title }}</h3>
+                </div>
+            </header>
 
-		</div>
-	</div>
+            <div class="entry-content">
+                {{ content }}
+            </div>
+
+            <footer class="entry-footer">
+
+            </footer>
+
+        </div>
+    </div>
 </article>
 
 <!-- Blog Comment is disabled -->
