@@ -107,9 +107,10 @@ DEPENDENCIES
   jekyll (~> 3.8.1)
   jekyll-assets
   jekyll-feed (~> 0.6)
+  jekyll-seo-tag
   minima (~> 2.0)
   tzinfo-data
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   1.16.1
+   1.16.6
