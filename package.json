@@ -69,7 +69,7 @@
     "scss": "node-sass --output-style compressed -o dist/css src/scss/styles.scss",
     "webpack": "webpack",
     "imagemin": "imagemin src/images/**/* -o dist/images",
-    "serve": "browser-sync dist",
+    "serve": "browser-sync dist --files dist",
     "jekyll": "bundle exec jekyll build --watch",
     "build:css": "run-s scss autoprefixer",
     "build:js": "webpack",

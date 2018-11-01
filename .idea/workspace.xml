@@ -4,16 +4,6 @@
     <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-114x114.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-120x120.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-144x144.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-57x57.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-60x60.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-72x72.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-76x76.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon-precomposed.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apple-touch-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/.sprockets-manifest-3c6810a017912edee6da14fabc9b0649.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
       <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
       <change beforePath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" afterPath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" />
@@ -25,23 +15,14 @@
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="$PROJECT_DIR$/dist/js/index.min.js" />
       <change beforePath="$PROJECT_DIR$/dist/lien-he/index.html" afterPath="$PROJECT_DIR$/dist/lien-he/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/tin-tuc/index.html" afterPath="$PROJECT_DIR$/dist/tin-tuc/index.html" />
-      <change beforePath="$PROJECT_DIR$/favicon-16x16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon-32x32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon-96x96.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
       <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/index.html" afterPath="$PROJECT_DIR$/src/app/_layouts/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/about.html" afterPath="$PROJECT_DIR$/src/app/about.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" afterPath="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/head.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
       <change beforePath="$PROJECT_DIR$/src/app/contact.html" afterPath="$PROJECT_DIR$/src/app/contact.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/news.html" afterPath="$PROJECT_DIR$/src/app/news.html" />
       <change beforePath="$PROJECT_DIR$/src/scss/layout/_pages.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -51,27 +32,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6902834">
+    <splitter split-orientation="horizontal" split-proportion="0.5688259">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/package.json">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-931">
-                  <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-                  <folding />
+                <state relative-caret-position="112">
+                  <caret line="159" column="49" lean-forward="false" selection-start-line="159" selection-start-column="49" selection-end-line="159" selection-end-column="49" />
+                  <folding>
+                    <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/app/index.html">
+          <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="367">
-                  <caret line="174" column="30" lean-forward="false" selection-start-line="174" selection-start-column="30" selection-end-line="174" selection-end-column="30" />
-                  <folding>
-                    <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="459">
+                  <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -80,21 +61,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="_sign-in.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="340">
-                  <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="140">
-                  <caret line="148" column="1" lean-forward="false" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
+                <state relative-caret-position="325">
+                  <caret line="185" column="13" lean-forward="true" selection-start-line="185" selection-start-column="13" selection-end-line="185" selection-end-column="13" />
                   <folding>
                     <element signature="e#1317#2001#0" expanded="false" />
                   </folding>
@@ -136,8 +107,8 @@
       <find>img</find>
       <find>absolute_url</find>
       <find>data-src=&quot;{{&quot; images</find>
-      <find>src=</find>
       <find>data-src=&quot;{{</find>
+      <find>src=</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
@@ -204,22 +175,22 @@
         <option value="$PROJECT_DIR$/src/scss/module/_video.scss" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/src/scss/base/_global.scss" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
         <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
         <option value="$PROJECT_DIR$/src/app/about.html" />
         <option value="$PROJECT_DIR$/src/app/news.html" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-        <option value="$PROJECT_DIR$/src/app/contact.html" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/app/index.html" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/src/app/index.html" />
+        <option value="$PROJECT_DIR$/src/app/contact.html" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
       </list>
     </option>
   </component>
@@ -284,6 +255,29 @@
               <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_navigations" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -419,11 +413,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540977191271</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update URL">
+      <created>1541052271234</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541052271234</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156200000" />
+    <option name="totallyTimeSpent" value="159838000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,9 +441,9 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48317048" sideWeight="0.4152452" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37350705" sideWeight="0.4307036" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37350705" sideWeight="0.4307036" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37350705" sideWeight="0.4307036" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37350705" sideWeight="0.56929636" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21002132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -544,7 +545,8 @@
     <MESSAGE value="Fix bug background-image" />
     <MESSAGE value="Fix bug Single Post Layout" />
     <MESSAGE value="Merge branch 'develop' of https://github.com/TripathVN/m090-landing-page into upstream-master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;about.html&#10;#&#9;contact.html&#10;#&#9;dist/contact.html&#10;#&#9;dist/feed.xml&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html&#10;#&#9;dist/index.html&#10;#&#9;dist/lien-he/index.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html&#10;#&#9;dist/news.html&#10;#&#9;dist/tin-tuc/index.html&#10;#&#9;feed.xml&#10;#&#9;images/map-profile.jpeg&#10;#&#9;index.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html&#10;#&#9;news.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'develop' of https://github.com/TripathVN/m090-landing-page into upstream-master&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;about.html&#10;#&#9;contact.html&#10;#&#9;dist/contact.html&#10;#&#9;dist/feed.xml&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html&#10;#&#9;dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html&#10;#&#9;dist/index.html&#10;#&#9;dist/lien-he/index.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html&#10;#&#9;dist/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html&#10;#&#9;dist/news.html&#10;#&#9;dist/tin-tuc/index.html&#10;#&#9;feed.xml&#10;#&#9;images/map-profile.jpeg&#10;#&#9;index.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html&#10;#&#9;m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html&#10;#&#9;news.html" />
+    <MESSAGE value="Update URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update URL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -553,7 +555,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/contact.html" />
     <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -744,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
@@ -767,14 +761,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_layouts/page-boxed.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -806,14 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -826,14 +804,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2232">
           <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -854,36 +824,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="39" column="51" lean-forward="false" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="148" column="1" lean-forward="false" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
-          <folding>
-            <element signature="e#1317#2001#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -904,21 +848,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="87" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="380">
+          <caret line="62" column="25" lean-forward="false" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="174" column="30" lean-forward="false" selection-start-line="174" selection-start-column="30" selection-end-line="174" selection-end-column="30" />
+        <state relative-caret-position="112">
+          <caret line="159" column="49" lean-forward="false" selection-start-line="159" selection-start-column="49" selection-end-line="159" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="15" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="185" column="13" lean-forward="true" selection-start-line="185" selection-start-column="13" selection-end-line="185" selection-end-column="13" />
+          <folding>
+            <element signature="e#1317#2001#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="47" lean-forward="false" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
