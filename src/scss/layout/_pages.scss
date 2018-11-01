@@ -71,7 +71,7 @@
   background-color: $gray-100;
 }
 
-.trang-chu {
+.home {
   .o-page-top {
     &__wrapper {
 
@@ -90,7 +90,7 @@
   }
 }
 
-.gioi-thieu-ve-m090 {
+.about {
   .o-page-top {
     &__wrapper {
 
@@ -147,3 +147,27 @@
     }
   }
 }
+
+.news {
+
+}
+
+.contact {
+  .o-page-top {
+    &__wrapper {
+
+    }
+  }
+  .o-page-main {
+    &__wrapper {
+      padding: 0;
+    }
+  }
+
+  .o-page-bottom {
+    &__wrapper {
+
+    }
+  }
+}
+

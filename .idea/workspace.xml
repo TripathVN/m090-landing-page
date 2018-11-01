@@ -2,136 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/images/m090-logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/aos/aos.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/aos/aos.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-grid.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap-reboot.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/bootstrap/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/ev-emitter/ev-emitter.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/all.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/all.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/brands.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/brands.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/fa-svg-with-js.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/fontawesome.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/fontawesome.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/regular.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/regular.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/solid.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/solid.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/svg-with-js.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/svg-with-js.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/v4-shims.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/css/v4-shims.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/all.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/brands.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/brands.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-brands.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-brands.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-regular.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-regular.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-solid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-solid.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-v4-shims.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fa-v4-shims.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome-all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome-all.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/fontawesome.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/regular.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/regular.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/solid.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/solid.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/v4-shims.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/js/v4-shims.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-brands-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-regular-400.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/font-awesome/webfonts/fa-solid-900.woff2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/gsap/TweenMax.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/jquery-mousewheel/jquery.mousewheel.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/jquery/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/lazysizes/lazysizes.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/popper/popper.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/scrollmagic/ScrollMagic.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/scrollmagic/plugins/animation.gsap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/scrollmagic/plugins/animation.velocity.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/ajax-loader.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/fonts/slick.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/slick-theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/slick.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/slick-carousel/slick.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/smoothscroll-for-websites/SmoothScroll.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/esm/tippy.standalone.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/themes/light.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/themes/translucent.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.all.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/dist/vendors/tippy.js/dist/tippy.standalone.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/images/m090-logo.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/.sprockets-manifest-3c6810a017912edee6da14fabc9b0649.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/minima-social-icons.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/dist/lien-he/index.html" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/about/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dist/contact/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-114x114.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-120x120.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-144x144.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-57x57.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-60x60.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-72x72.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-76x76.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon-precomposed.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/.sprockets-manifest-3c6810a017912edee6da14fabc9b0649.json" afterPath="" />
       <change beforePath="$PROJECT_DIR$/dist/css/styles.css" afterPath="$PROJECT_DIR$/dist/css/styles.css" />
       <change beforePath="$PROJECT_DIR$/dist/feed.xml" afterPath="$PROJECT_DIR$/dist/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" afterPath="$PROJECT_DIR$/dist/gioi-thieu-ve-m090/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4/index.html" />
@@ -140,178 +25,23 @@
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html" afterPath="$PROJECT_DIR$/dist/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change beforePath="$PROJECT_DIR$/dist/news/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/images/app-store-badge.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/arrow.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bank.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/bui-son-nam.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/contacts.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/duyld.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/google-play-badge.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/jump-couple.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/jump-girl.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/lamncn.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/lightbulb.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/location.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo@2x.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/map-profile.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/message.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/mobile-mock-up.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/phuongdb.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/profile.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/quote.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/tuanna.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/vn-map.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/index.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/m090 mobifone/2017/09/07/how-to-create-a-press-kit-that-gets-publicity-for-your-business.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/news.html" afterPath="$PROJECT_DIR$/dist/tin-tuc/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" afterPath="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/head.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/blog.html" afterPath="$PROJECT_DIR$/src/app/_layouts/blog.html" />
+      <change beforePath="$PROJECT_DIR$/dist/js/index.min.js" afterPath="$PROJECT_DIR$/dist/js/index.min.js" />
+      <change beforePath="$PROJECT_DIR$/dist/lien-he/index.html" afterPath="$PROJECT_DIR$/dist/lien-he/index.html" />
+      <change beforePath="$PROJECT_DIR$/dist/tin-tuc/index.html" afterPath="$PROJECT_DIR$/dist/tin-tuc/index.html" />
+      <change beforePath="$PROJECT_DIR$/favicon-16x16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon-32x32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon-96x96.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change beforePath="$PROJECT_DIR$/src/app/_layouts/index.html" afterPath="$PROJECT_DIR$/src/app/_layouts/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/post.html" afterPath="$PROJECT_DIR$/src/app/_layouts/post.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.md" />
-      <change beforePath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" afterPath="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" />
       <change beforePath="$PROJECT_DIR$/src/app/about.html" afterPath="$PROJECT_DIR$/src/app/about.html" />
       <change beforePath="$PROJECT_DIR$/src/app/contact.html" afterPath="$PROJECT_DIR$/src/app/contact.html" />
       <change beforePath="$PROJECT_DIR$/src/app/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
       <change beforePath="$PROJECT_DIR$/src/app/news.html" afterPath="$PROJECT_DIR$/src/app/news.html" />
-      <change beforePath="$PROJECT_DIR$/src/scss/base/_elements.scss" afterPath="$PROJECT_DIR$/src/scss/base/_elements.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/base/_global.scss" afterPath="$PROJECT_DIR$/src/scss/base/_global.scss" />
       <change beforePath="$PROJECT_DIR$/src/scss/layout/_pages.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/module/_map.scss" afterPath="$PROJECT_DIR$/src/scss/module/_map.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/styles.scss" afterPath="$PROJECT_DIR$/src/scss/styles.scss" />
-      <change beforePath="$PROJECT_DIR$/vendors/aos/aos.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/aos/aos.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/css/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.bundle.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/bootstrap/js/bootstrap.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/ev-emitter/ev-emitter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/all.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/all.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/brands.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/brands.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/fa-svg-with-js.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/fontawesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/fontawesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/regular.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/regular.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/solid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/solid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/svg-with-js.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/svg-with-js.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/v4-shims.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/css/v4-shims.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/all.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/all.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/brands.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/brands.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-brands.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-brands.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-regular.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-regular.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-solid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-solid.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-v4-shims.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fa-v4-shims.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fontawesome-all.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fontawesome-all.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fontawesome.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/fontawesome.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/regular.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/regular.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/solid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/solid.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/v4-shims.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/js/v4-shims.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-brands-400.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-brands-400.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-brands-400.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-brands-400.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-brands-400.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-regular-400.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-regular-400.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-regular-400.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-regular-400.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-regular-400.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-solid-900.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-solid-900.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-solid-900.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-solid-900.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/font-awesome/webfonts/fa-solid-900.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/gsap/TweenMax.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/jquery-mousewheel/jquery.mousewheel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/jquery/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/lazysizes/lazysizes.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/popper/popper.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/ScrollMagic.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/plugins/animation.gsap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/plugins/animation.velocity.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/ajax-loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/smoothscroll-for-websites/SmoothScroll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.standalone.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.standalone.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.standalone.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/esm/tippy.standalone.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/themes/light.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/themes/translucent.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.all.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.all.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.all.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.all.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.min.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.standalone.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.standalone.js.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.standalone.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/tippy.js/dist/tippy.standalone.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -321,15 +51,27 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.70542085">
+    <splitter split-orientation="horizontal" split-proportion="0.6902834">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="scrollmagic.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+                <state relative-caret-position="-931">
+                  <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="367">
+                  <caret line="174" column="30" lean-forward="false" selection-start-line="174" selection-start-column="30" selection-end-line="174" selection-end-column="30" />
+                  <folding>
+                    <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -338,12 +80,24 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="_sign-in.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_sign-in.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="59">
-                  <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <state relative-caret-position="340">
+                  <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="140">
+                  <caret line="148" column="1" lean-forward="false" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#1317#2001#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -354,15 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>o-footer-body</find>
-      <find>5px</find>
-      <find>ratio--</find>
-      <find>h1</find>
-      <find>underline</find>
-      <find>TRANG CHỦ</find>
-      <find>bread</find>
-      <find>line-he</find>
-      <find>font</find>
       <find>supp</find>
       <find>o-map</find>
       <find>18px</find>
@@ -384,16 +129,28 @@
       <find>o-page-top__caption</find>
       <find>localhost:3000</find>
       <find>dist.</find>
+      <find>ab</find>
+      <find>&lt;body</find>
+      <find>broww</find>
+      <find>browser-sync</find>
+      <find>img</find>
+      <find>absolute_url</find>
+      <find>data-src=&quot;{{&quot; images</find>
+      <find>src=</find>
+      <find>data-src=&quot;{{</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
       <replace>o-footer-main</replace>
       <replace>_site</replace>
+      <replace>relative_url</replace>
+      <replace>data-src=&quot;{{&quot;images</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page</dir>
-      <dir>C:\xampp\htdocs\tripath\m090\landing-page\src</dir>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page\dist</dir>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\src</dir>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\src\app</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -420,7 +177,6 @@
         <option value="$PROJECT_DIR$/src/app/_layouts/page.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/page-full.html" />
         <option value="$PROJECT_DIR$/src/images/vn-map.svg" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/images/location.svg" />
         <option value="$PROJECT_DIR$/src/app/archive-blogs-1.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/page-boxed.html" />
@@ -434,11 +190,9 @@
         <option value="$PROJECT_DIR$/src/scss/components/_navigation.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_sign-in.scss" />
         <option value="$PROJECT_DIR$/src/scss/base/_elements.scss" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
         <option value="$PROJECT_DIR$/src/scss/layout/_header.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" />
         <option value="$PROJECT_DIR$/src/scss/layout/_footer.scss" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/scss/vendors/_tippy.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_parallax.scss" />
@@ -450,17 +204,20 @@
         <option value="$PROJECT_DIR$/src/scss/module/_video.scss" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/src/scss/base/_global.scss" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
         <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
-        <option value="$PROJECT_DIR$/src/app/contact.html" />
+        <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
+        <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
         <option value="$PROJECT_DIR$/src/app/about.html" />
         <option value="$PROJECT_DIR$/src/app/news.html" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
+        <option value="$PROJECT_DIR$/src/app/contact.html" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/app/index.html" />
       </list>
@@ -511,6 +268,11 @@
             <path>
               <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
@@ -661,7 +423,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146362000" />
+    <option name="totallyTimeSpent" value="156200000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,14 +436,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48317048" sideWeight="0.4152452" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48317048" sideWeight="0.4152452" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48317048" sideWeight="0.4152452" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37350705" sideWeight="0.4307036" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48317048" sideWeight="0.5847548" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37350705" sideWeight="0.56929636" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21002132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -854,14 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="57" lean-forward="false" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/components/_navigation.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1751">
@@ -873,20 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="44" column="6" lean-forward="false" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -955,14 +696,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/base/_global.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1011,13 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1045,6 +771,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,21 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,55 +808,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="285" column="0" lean-forward="true" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="40" column="81" lean-forward="false" selection-start-line="40" selection-start-column="81" selection-end-line="40" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="362">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="187">
+          <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2232">
+          <caret line="60" column="34" lean-forward="true" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="39" column="51" lean-forward="false" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="148" column="1" lean-forward="false" selection-start-line="148" selection-start-column="1" selection-end-line="148" selection-end-column="1" />
+          <folding>
+            <element signature="e#1317#2001#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="85" column="44" lean-forward="true" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-931">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="174" column="30" lean-forward="false" selection-start-line="174" selection-start-column="30" selection-end-line="174" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
