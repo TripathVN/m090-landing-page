@@ -41,6 +41,15 @@ SM.parallax = function () {
     new ScrollMagic.Scene({triggerElement: "#o-media-boxes", duration: $(window).height()})
         .setTween(tweenMedia)
         .addTo(controller);
+
+    let tweenContact = new TimelineMax()
+        .add([
+            TweenMax.fromTo("#o-p-contact__body .o-p-contact__body--float", 1, {y: 150}, {y: -150, ease: Linear.easeNone})
+        ]);
+
+    new ScrollMagic.Scene({triggerElement: "#o-p-contact__body", duration: $(window).height()})
+        .setTween(tweenContact)
+        .addTo(controller);
 };
 
 export default SM;

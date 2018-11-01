@@ -4,11 +4,6 @@ description: M090 Landing Page
 author: Tripath Vietnam
 email: tudx@tripath.vn
 
-host: localhost
-
-baseurl:
-url: "/dist"
-
 twitter_username: TripathVN
 github_username:  TripathVN
 
@@ -23,14 +18,7 @@ permalink: /:title/
 exclude: [scss]
 keep_files: [css, js, images, vendors]
 
-assets:
-  sources:
-  - _assets/css
-  - _assets/fonts
-  - _assets/images
-  - _assets/js
-  - _assets/video
-
 plugins:
   - jekyll-feed
-  - jekyll-assets
+  - jekyll-seo-tag
+  - jekyll-meta

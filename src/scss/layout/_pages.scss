@@ -71,7 +71,7 @@
   background-color: $gray-100;
 }
 
-.trang-chu {
+.home {
   .o-page-top {
     &__wrapper {
 
@@ -90,7 +90,7 @@
   }
 }
 
-.gioi-thieu-ve-m090 {
+.about {
   .o-page-top {
     &__wrapper {
 
@@ -147,3 +147,96 @@
     }
   }
 }
+
+.news {
+
+}
+
+.contact {
+  .o-page-top {
+    background: linear-gradient(#ddecee, #fff);
+
+    &__wrapper {
+      padding: 12rem 0 6rem 0;
+      text-align: center;
+    }
+  }
+  .o-page-main {
+    padding-bottom: 6rem;
+
+    &__wrapper {
+      padding: 0;
+
+      .o-p-contact {
+
+        &__body {
+          position: relative;
+          border-radius: 5px;
+          box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
+
+          &--float {
+            position: absolute;
+            right: -145px;
+            bottom: -50px;
+          }
+        }
+
+        &__address {
+
+          &--left {
+            background-color: $red;
+            padding: 2rem 1.75rem;
+            border-top-left-radius: 5px;
+
+            h3, p {
+              margin-bottom: 0;
+              color: $white;
+            }
+          }
+
+          &--right {
+            background-color: $blue;
+            padding: 2rem 1.75rem;
+            border-top-right-radius: 5px;
+
+            h3, p {
+              margin-bottom: 0;
+              color: $white;
+            }
+          }
+        }
+
+        &__form {
+          padding: 2rem;
+
+          label {
+            font-weight: 700;
+          }
+
+          &--title {
+            .title {
+              color: $black;
+              font-weight: 300;
+            }
+          }
+
+          &--summary {
+
+          }
+
+          textarea {
+            min-height: 16rem
+          }
+        }
+
+      }
+    }
+  }
+
+  .o-page-bottom {
+    &__wrapper {
+
+    }
+  }
+}
+
