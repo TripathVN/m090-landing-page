@@ -170,9 +170,15 @@
       .o-p-contact {
 
         &__body {
+          position: relative;
           border-radius: 5px;
           box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
-          //padding: 2rem;
+
+          &--float {
+            position: absolute;
+            right: -145px;
+            bottom: -50px;
+          }
         }
 
         &__address {
@@ -203,17 +209,26 @@
         &__form {
           padding: 2rem;
 
-          &--title {
+          label {
+            font-weight: 700;
+          }
 
+          &--title {
+            .title {
+              color: $black;
+              font-weight: 300;
+            }
           }
 
           &--summary {
 
           }
+
           textarea {
             min-height: 16rem
           }
         }
+
       }
     }
   }

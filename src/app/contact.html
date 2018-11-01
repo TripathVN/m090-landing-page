@@ -14,17 +14,17 @@ page-top: on
         <div class="row">
             <div class="col-12 col-md-2"></div>
             <div class="col-12 col-md-8">
-                <div class="o-p-contact__body">
+                <div id="o-p-contact__body" class="o-p-contact__body">
                     <div class="row no-gutters">
                         <div class="col-12 col-md-6">
                             <div class="o-p-contact__address--left">
-                                <h3>MobiFone</h3>
+                                <h3 class="title">MobiFone</h3>
                                 <p>Số 1 Hùng Vương, Quận Ba Đình, Thành phố Hà Nội</p>
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
                             <div class="o-p-contact__address--right">
-                                <h3>Tripath Vietnam</h3>
+                                <h3 class="title">Tripath Vietnam</h3>
                                 <p>Số 1 Hùng Vương, Quận Ba Đình, Thành phố Hà Nội</p>
                             </div>
                         </div>
@@ -32,26 +32,34 @@ page-top: on
                     <div class="row">
                         <div class="col-12">
                             <form class="o-p-contact__form" action="#">
-                                <h3 class="o-p-contact__form--title">Gửi tin nhắn hỗ trợ</h3>
-                                <p class="o-p-contact__form--summary">Integer eu tortor suscipit, viverra libero in, aliquet ante. In sodales quam rutrum mi consectetur, et egestas magna luctus.</p>
-                                <div class="form-row">
+                                <div class="o-p-contact__form--title">
+                                    <h3 class="title">Gửi tin nhắn hỗ trợ</h3>
+                                </div>
+                                <div class="o-p-contact__form--summary">
+                                    <p class="summary">Integer eu tortor suscipit, viverra libero in, aliquet ante. In sodales quam rutrum mi consectetur, et egestas magna luctus.</p>
+                                </div>
+
+                                <div class="form-row row">
                                     <div class="form-group col">
                                         <label for="full-name">Họ và tên</label>
                                         <input class="form-control" type="text" id="full-name" name="full-name" placeholder="Họ và tên">
                                     </div>
                                     <div class="form-group col">
                                         <label for="mobile">Số điện thoại</label>
-                                        <input class="form-control" type="text" id="mobile" name="mobile" placeholder="Họ và tên">
+                                        <input class="form-control" type="text" id="mobile" name="mobile" placeholder="Số điện thoại">
                                     </div>
                                     <div class="form-group col-12">
                                         <label for="summary">Nội dung</label>
-                                        <textarea class="form-control" id="summary" name="summary" placeholder="Nhập nội dung cần hỗ trợ"></textarea>
+                                        <textarea class="form-textarea" id="summary" name="summary" placeholder="Nhập nội dung cần hỗ trợ"></textarea>
                                     </div>
                                 </div>
                                 <div ></div>
                             </form>
                         </div>
                     </div>
+                    <figure class="o-p-contact__body--float">
+                        <img class="lazyload" data-src="{{"images/girl-loud.png" | relative_url}}" alt="Liên hệ với m090">
+                    </figure>
                 </div>
             </div>
             <div class="col-12 col-md-2"></div>
