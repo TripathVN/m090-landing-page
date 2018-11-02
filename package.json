@@ -25,7 +25,8 @@
   },
   "license": "GPL-3.0+",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "ncp": "^2.0.0"
   },
   "devDependencies": {
     "@fancyapps/fancybox": "^3.5.2",
@@ -69,17 +70,17 @@
     "scss": "node-sass --output-style compressed -o dist/css src/scss/styles.scss",
     "webpack": "webpack",
     "imagemin": "imagemin src/images/**/* -o dist/images",
+    "copy": "ncp src/vendors/ dist/vendors/",
     "serve": "browser-sync dist --files dist",
     "jekyll": "bundle exec jekyll build --watch",
     "build:css": "run-s scss autoprefixer",
     "build:js": "webpack",
     "build:images": "run-s imagemin",
-    "build": "run-s clean build:*",
+    "build": "run-s clean build:* copy",
     "watch:css": "onchange \"src/scss\" -- run-s build:css",
     "watch:js": "onchange \"src/js/*.js\" -- run-s build:js",
     "watch:images": "onchange \"src/images/*\" -- run-s build:images",
     "watch": "run-p jekyll serve watch:*",
-    "start": "run-s build watch",
-    "h": "browser-sync --version"
+    "start": "run-s build watch"
   }
 }
