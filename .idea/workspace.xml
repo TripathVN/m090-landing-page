@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Update some Contact Style">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/main.css" afterPath="$PROJECT_DIR$/assets/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/minima-social-icons.svg" afterPath="$PROJECT_DIR$/assets/minima-social-icons.svg" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/gioi-thieu-ve-m090/index.html" afterPath="$PROJECT_DIR$/gioi-thieu-ve-m090/index.html" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business-2/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business-3/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business-4/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business-5/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business-6/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business-7/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/how-to-create-a-press-kit-that-gets-publicity-for-your-business/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/index.min.js" afterPath="$PROJECT_DIR$/js/index.min.js" />
-      <change beforePath="$PROJECT_DIR$/lien-he/index.html" afterPath="$PROJECT_DIR$/lien-he/index.html" />
-      <change beforePath="$PROJECT_DIR$/tin-tuc/index.html" afterPath="$PROJECT_DIR$/tin-tuc/index.html" />
-    </list>
+    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Update some Contact Style" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -356,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164771000" />
+    <option name="totallyTimeSpent" value="164786000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,7 +355,7 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31847826" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31195652" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
@@ -488,13 +470,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="0" column="16853" lean-forward="false" selection-start-line="0" selection-start-column="16853" selection-end-line="0" selection-end-column="16853" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/styles.css" />
     <entry file="file://$PROJECT_DIR$/src/app/_data/main-navigation.yml" />
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/footer-navigation.html" />
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" />
@@ -528,13 +504,7 @@
     <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html" />
     <entry file="file://$PROJECT_DIR$/src/app/news.html" />
     <entry file="file://$PROJECT_DIR$/src/app/about.html" />
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="85" column="44" lean-forward="true" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html" />
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html" />
     <entry file="file://$PROJECT_DIR$/package.json" />
