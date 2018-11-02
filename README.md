@@ -1,25 +1,25 @@
 # M090 Landing Page
 
-### Using Jekyll as a Blog-Aware, Static Site generator
+##### Using Jekyll as a Blog-Aware, Static Site generator
 
 [Jekyll](https://github.com/jekyll/jekyll)
 
-### Yarn Dependency Management
+##### Yarn Dependency Management
 
 [Jekyll](https://yarnpkg.com/en/)
 
-### Installing with Yarn
+##### Installing with Yarn
 
 > yarn
 
-### Using Yarn as a Build Tool
+##### Using Yarn as a Build Tool
 
 > yarn start
 
-### License
+##### License
 
 > GPL-3.0+
 
-### Contributing
+##### Contributing
 
 [Tripath Vietnam](http://tripath.vn/)
