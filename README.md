@@ -6,7 +6,7 @@
 
 ##### Yarn Dependency Management
 
-[Jekyll](https://yarnpkg.com/en/)
+[Yarn](https://yarnpkg.com/en/)
 
 ##### Installing with Yarn
 
