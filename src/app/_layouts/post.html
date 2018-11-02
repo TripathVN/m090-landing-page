@@ -1,12 +1,16 @@
 ---
 layout: blog
 sidebar: off
+class: single
 page-top: on
 ---
 
 <article class="hentry post format-standard">
-    <div class="row no-gutters">
-        <div class="col-12 o-column">
+    <div class="row">
+
+        <div class="col-12 col-lg-2 o-column"></div>
+
+        <div class="col-12 col-lg-8 o-column">
 
             <div class="entry-featured-image">
                 <figure>
@@ -18,9 +22,6 @@ page-top: on
                 <div class="entry-meta">
                     <p>{{ page.date }}</p>
                 </div>
-                <div class="entry-title">
-                    <h3>{{ page.title }}</h3>
-                </div>
             </header>
 
             <div class="entry-content">
@@ -28,10 +29,12 @@ page-top: on
             </div>
 
             <footer class="entry-footer">
-
+                Theo <span><b>{{ page.author }}</b></span>
             </footer>
 
         </div>
+
+        <div class="col-12 col-lg-2 o-column"></div>
     </div>
 </article>
 

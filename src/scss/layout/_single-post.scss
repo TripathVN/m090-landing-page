@@ -1,0 +1,36 @@
+.single {
+
+  /* Site Header */
+  .site-header {
+
+  }
+
+  /* Site Content */
+  .site-content {
+    .o-page-top {
+      &__wrapper {
+        h1.o-underline--1 {
+          &:before {
+            display: none;
+          }
+        }
+      }
+    }
+    .o-page-main {
+      &__wrapper {
+
+      }
+    }
+
+    .o-page-bottom {
+      &__wrapper {
+
+      }
+    }
+  }
+
+  /* Site Footer */
+  .site-footer {
+
+  }
+}

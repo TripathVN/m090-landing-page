@@ -40,6 +40,11 @@
   }
 
   &__summary {
+    h6 {
+      font-size: $font-size-base;
+      font-weight: normal;
+      color: $black;
+    }
     p {
       margin-bottom: 0;
     }
