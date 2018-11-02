@@ -1,9 +1,13 @@
 {
-  "name": "om-mediation",
-  "description": "OM Mediation HTML Template",
+  "name": "m090-landing-page",
+  "description": "m090 Landing Page",
   "version": "1.0.0",
   "keywords": [
-    "free",
+    "m090",
+    "landing",
+    "mobifone",
+    "app",
+    "jekyll",
     "html5",
     "css3",
     "responsive",
@@ -12,16 +16,16 @@
     "web"
   ],
   "homepage": "#",
-  "author": "Tu Dinh Xuan",
+  "author": "Tripath Vietnam",
   "contributors": [
     "Tu Dinh Xuan"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dtux0986/om-mediation.git"
+    "url": "https://github.com/TripathVN/m090-landing-page.git"
   },
   "bugs": {
-    "url": "https://github.com/dtux0986/om-mediation/issues"
+    "url": "https://github.com/TripathVN/m090-landing-page/issues"
   },
   "license": "GPL-3.0+",
   "dependencies": {
@@ -41,12 +45,9 @@
     "babel-preset-es2015": "^6.24.1",
     "bootstrap": "^4.1.0",
     "browser-sync": "^2.26.3",
-    "cpx": "^1.5.0",
     "gsap": "^1.20.3",
     "imagemin-cli": "^3.0.0",
-    "imagesloaded": "^4.1.3",
     "imports-loader": "^0.7.1",
-    "isotope-layout": "^3.0.6",
     "jquery": "^3.2.1",
     "jshint": "^2.9.5",
     "lazysizes": "^4.0.2",
@@ -58,7 +59,6 @@
     "postcss-cli": "^4.1.1",
     "rimraf": "^2.6.2",
     "scrollmagic": "^2.0.5",
-    "scrollup": "^1.0.1",
     "slick-carousel": "^1.8.1",
     "smoothscroll-for-websites": "^1.4.6",
     "tippy.js": "^3.0.6",
