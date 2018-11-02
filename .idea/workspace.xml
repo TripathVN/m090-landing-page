@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Update some Contact Style" />
+    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +25,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>main</find>
-      <find>gsap</find>
-      <find>social</find>
-      <find>dist</find>
-      <find>test</find>
-      <find>tippy</find>
-      <find>carou</find>
-      <find>o-par</find>
-      <find>o-ra</find>
       <find>text-rig</find>
       <find>map</find>
       <find>video</find>
@@ -52,6 +46,15 @@
       <find>inp[ut</find>
       <find>src=</find>
       <find>col-md-</find>
+      <find>svg</find>
+      <find>svg/</find>
+      <find>imagemin</find>
+      <find>breadcumb</find>
+      <find>breadc</find>
+      <find>breadcum</find>
+      <find>bread</find>
+      <find>o-breadcrumb</find>
+      <find>o-p-blo</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
@@ -64,8 +67,8 @@
     <dirStrings>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page</dir>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page\dist</dir>
-      <dir>C:\xampp\htdocs\tripath\m090\landing-page\src</dir>
       <dir>C:\xampp\htdocs\tripath\m090\landing-page\src\app</dir>
+      <dir>C:\xampp\htdocs\tripath\m090\landing-page\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -84,22 +87,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/scss/components/_form.scss" />
-        <option value="$PROJECT_DIR$/src/scss/vendors/_bootstrap.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_misc.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_icon-boxes.scss" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/page.html" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/page-full.html" />
-        <option value="$PROJECT_DIR$/src/images/vn-map.svg" />
-        <option value="$PROJECT_DIR$/src/images/location.svg" />
-        <option value="$PROJECT_DIR$/src/app/archive-blogs-1.html" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/page-boxed.html" />
-        <option value="$PROJECT_DIR$/src/app/_data/main-navigation.yml" />
         <option value="$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" />
         <option value="$PROJECT_DIR$/src/app/_includes/_navigations/footer-navigation.html" />
         <option value="$PROJECT_DIR$/src/scss/helpers/_variables.scss" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_navigations/top-navigation.html" />
         <option value="$PROJECT_DIR$/src/scss/components/_navigation.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_sign-in.scss" />
@@ -115,26 +105,39 @@
         <option value="$PROJECT_DIR$/src/scss/module/_service-boxes.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_media.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_video.scss" />
-        <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
         <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
         <option value="$PROJECT_DIR$/src/app/about.html" />
         <option value="$PROJECT_DIR$/src/app/news.html" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/app/index.html" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/scss/base/_global.scss" />
         <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/src/app/contact.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
+        <option value="$PROJECT_DIR$/src/scss/base/_global.scss" />
+        <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
+        <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
+        <option value="$PROJECT_DIR$/src/app/contact.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_single-post.scss" />
+        <option value="$PROJECT_DIR$/dist/kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan/index.html" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2017-08-11-mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090.md" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2017-09-01-mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau.md" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2017-09-16-kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan.md" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2018-03-22-4-thoa-thuan-hop-tac-quan-trong-ve-ict-giua-doanh-nghiep-viet-nam-han-quoc-duoc-ky-ket.md" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2018-09-18-nha-mang-tung-goi-data-roaming-moi-gia-re-nhu-o-nha.md" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2018-10-11-gia-cuoc-chuyen-vung-quoc-te-da-qua-thoi-dat-do.md" />
+        <option value="$PROJECT_DIR$/src/app/_posts/2018-10-16-cuoc-chuyen-vung-quoc-te-khi-gia-ca-khong-con-la-tro-ngai.md" />
+        <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
       </list>
     </option>
   </component>
@@ -221,6 +224,7 @@
       <workItem from="1539860053673" duration="24421000" />
       <workItem from="1540179296514" duration="1754000" />
       <workItem from="1540260221296" duration="54965000" />
+      <workItem from="1541123832013" duration="10021000" />
     </task>
     <task id="LOCAL-00001" summary="PHPStorm">
       <created>1539944009774</created>
@@ -334,11 +338,60 @@
       <option name="project" value="LOCAL" />
       <updated>1541059026008</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge branch 'master' of https://github.com/TripathVN/m090-landing-page into upstream-develop&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1541061560268</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541061560268</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Delete the 'dist' folder">
+      <created>1541124980012</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541124980012</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update Description">
+      <created>1541125458623</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541125458623</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Update README.md">
+      <created>1541126230594</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541126230594</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update README.md">
+      <created>1541126260198</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1541126260198</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update README.md">
+      <created>1541126353984</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1541126353984</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update .gitignore">
+      <created>1541142934522</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1541142934522</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164786000" />
+    <option name="totallyTimeSpent" value="175250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -376,9 +429,9 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28369564" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2228261" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22921109" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2521322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2597826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -461,7 +514,12 @@
     <MESSAGE value="Update URL" />
     <MESSAGE value="Update &amp; Fix some bugs" />
     <MESSAGE value="Update some Contact Style" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update some Contact Style" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/TripathVN/m090-landing-page into upstream-develop&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Delete the 'dist' folder" />
+    <MESSAGE value="Update Description" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Update .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -470,56 +528,322 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/css/styles.css" />
-    <entry file="file://$PROJECT_DIR$/src/app/_data/main-navigation.yml" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/footer-navigation.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" />
-    <entry file="file://$PROJECT_DIR$/src/scss/vendors/_bootstrap.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/vendors/_scrollmagic.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/vendors/_slick.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/vendors/_tippy.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/components/_navigation.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_header.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/components/_modal.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_footer.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_parallax.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_carousel.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_welcome.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_service-boxes.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_media.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_video.scss" />
-    <entry file="file://$PROJECT_DIR$/contact.html" />
-    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/base/_elements.scss" />
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/top-navigation.html" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/page-boxed.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/blog.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/page-boxed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/news.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/about.html" />
     <entry file="file://$PROJECT_DIR$/dist/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html" />
-    <entry file="file://$PROJECT_DIR$/package.json" />
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss" />
-    <entry file="file://$PROJECT_DIR$/src/scss/base/_global.scss" />
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html" />
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-    <entry file="file://$PROJECT_DIR$/Gemfile" />
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html" />
-    <entry file="file://$PROJECT_DIR$/src/js/index.js" />
-    <entry file="file://$PROJECT_DIR$/_config.yml" />
-    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
-    <entry file="file://$PROJECT_DIR$/src/app/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/app/contact.html" />
-    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js" />
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="87" lean-forward="false" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="46" column="97" lean-forward="false" selection-start-line="46" selection-start-column="97" selection-end-line="46" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="81" lean-forward="true" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="33" column="103" lean-forward="true" selection-start-line="33" selection-start-column="103" selection-end-line="33" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="true" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-3.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="87" column="82" lean-forward="false" selection-start-line="87" selection-start-column="82" selection-end-line="87" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="77" column="21" lean-forward="false" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-post.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendors/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="4603" column="1" lean-forward="false" selection-start-line="4603" selection-start-column="1" selection-end-line="4603" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_page/page-top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="64" lean-forward="false" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="31" column="24" lean-forward="false" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-08-11-mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-09-01-mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-09-16-kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-22-4-thoa-thuan-hop-tac-quan-trong-ve-ict-giua-doanh-nghiep-viet-nam-han-quoc-duoc-ky-ket.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-09-18-nha-mang-tung-goi-data-roaming-moi-gia-re-nhu-o-nha.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-10-11-gia-cuoc-chuyen-vung-quoc-te-da-qua-thoi-dat-do.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-10-16-cuoc-chuyen-vung-quoc-te-khi-gia-ca-khong-con-la-tro-ngai.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="20" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/base/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/base/_elements.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apple-touch-icon-57x57.png">
       <provider selected="true" editor-type-id="images">
         <state />
