@@ -1,11 +1,7 @@
 .sass-cache
 
-.jekyll-metadata
-
-.jekyll-cache
+.idea
 
 node_modules
-
-package-lock.json
 
 dist
