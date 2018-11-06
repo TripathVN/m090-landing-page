@@ -7,8 +7,12 @@
 
   /* Site Content */
   .site-content {
+
     .o-page-top {
       &__wrapper {
+        padding: 12rem 0 6rem 0;
+        text-align: center;
+
         h1.o-underline--1 {
           &:before {
             display: none;
@@ -16,9 +20,40 @@
         }
       }
     }
+
     .o-page-main {
       &__wrapper {
+        padding-top: 0;
 
+        .hentry {
+          margin-top: -40px;
+        }
+
+        .entry-featured-image {
+          figure {
+            margin-bottom: 0;
+          }
+        }
+
+        .entry-header {
+          margin: 20px 0 18px 0;
+
+          .entry-meta {
+            display: inline-block;
+            padding: 9px 12px;
+            background-color: $red;
+            font-weight: 700;
+            line-height: 1;
+            color: $white;
+          }
+        }
+
+        .entry-content {
+        }
+
+        .entry-footer {
+
+        }
       }
     }
 

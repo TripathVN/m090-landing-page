@@ -50,6 +50,16 @@ SM.parallax = function () {
     new ScrollMagic.Scene({triggerElement: "#o-p-contact__body", duration: $(window).height()})
         .setTween(tweenContact)
         .addTo(controller);
+
+
+    let newsBackgroundPageTop = new TimelineMax()
+        .add([
+            TweenMax.fromTo("#o-parallax-child", 1, {y: 230}, {y: -0, ease: Linear.easeNone})
+        ]);
+
+    new ScrollMagic.Scene({triggerElement: "#o-parallax-parent", duration: $(window).height()})
+        .setTween(newsBackgroundPageTop)
+        .addTo(controller);
 };
 
 export default SM;

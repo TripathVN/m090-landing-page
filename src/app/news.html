@@ -13,30 +13,74 @@ page-top: on
     <div class="o-p-blog__wrapper">
         <div class="row">
 
-            {% for post in site.posts %}
+            <div class="col-12 col-lg-1"></div>
 
-            <div class="col-12 col-sm-6 col-md-4 o-column">
+            <div class="col-12 col-lg-10">
+                <div class="row">
 
-                <div class="o-p-blog__block">
+                    {% for post in site.posts %}
 
-                    <figure class="o-p-blog__thumbnail o-ratio--16-9">
-                        <img class="lazyload" data-src="{{ post.featured | absolute_url }}" alt="{{ post.title }}"/>
-                    </figure>
+                    {% if forloop.first %}
 
-                    <div class="o-p-blog__title">
-                        <h4 class="title">
-                            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                        </h4>
+                    <div class="col-12 o-column first">
+                        <div class="o-p-blog__top row align-items-center">
+                            <div class="col-12 col-lg-7">
+                                <figure class="o-p-blog__thumbnail o-ratio--16-9">
+                                    <img class="lazyload" data-src="{{ post.featured | absolute_url }}" alt="{{ post.title }}"/>
+                                </figure>
+                            </div>
+                            <div class="col-12 col-lg-5">
+                                <div class="o-p-blog__block">
+                                    <div class="o-p-blog__date">
+                                        {{ post.date | date: "%d/%m/%Y" }}
+                                    </div>
+                                    <div class="o-p-blog__title">
+                                        <h4 class="title">
+                                            <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                        </h4>
+                                    </div>
+                                    <div class="o-p-blog__summary">
+                                        {{ post.excerpt }}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
-                    <div class="o-p-blog__summary">
-                        {{ post.excerpt }}
+
+                    {% else %}
+
+                    <div class="col-12 col-lg-6 o-column">
+                        <div class="o-p-blog__block">
+
+                            <figure class="o-p-blog__thumbnail o-ratio--16-9">
+                                <img class="lazyload" data-src="{{ post.featured | absolute_url }}" alt="{{ post.title }}"/>
+                            </figure>
+
+                            <div class="o-p-blog__date">
+                                {{ post.date | date: "%d/%m/%Y" }}
+                            </div>
+
+                            <div class="o-p-blog__title">
+                                <h4 class="title">
+                                    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                                </h4>
+                            </div>
+
+                            <div class="o-p-blog__summary">
+                                {{ post.excerpt }}
+                            </div>
+                        </div>
                     </div>
+
+                    {% endif %}
+
+                    {% endfor %}
                 </div>
-
             </div>
 
-            {% endfor %}
+
+            <div class="col-12 col-lg-1"></div>
 
         </div>
     </div>

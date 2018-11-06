@@ -20,7 +20,7 @@ page-top: on
 
             <header class="entry-header">
                 <div class="entry-meta">
-                    <p>{{ page.date }}</p>
+                    {{ page.date | date: "%d/%m/%Y" }}
                 </div>
             </header>
 

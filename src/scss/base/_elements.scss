@@ -243,7 +243,11 @@
 }
 
 .o-blockquote {
+  background-color: #ecf8ff;
   position: relative;
+  margin: 32px 0;
+  padding: 24px 32px;
+  border-radius: 5px;
   font-family: $headings-font-family;
   font-size: 36px;
   font-weight: 200;
@@ -255,8 +259,8 @@
     width: 150px;
     height: 150px;
     position: absolute;
-    left: -100px;
-    top: -35px;
+    left: -85px;
+    top: -50px;
     z-index: -1;
   }
 }

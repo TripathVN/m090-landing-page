@@ -2,11 +2,12 @@
  * Pages
  * -------------------------------------------------- */
 
+/* Overall Styles */
 .o-page-top {
   background: linear-gradient(#ddecee, #f8fbfc);
 
   &__wrapper {
-    padding: 6rem 0 2rem 0;
+    padding: 10rem 0 10rem 0;
   }
 
   &__block {
@@ -71,6 +72,7 @@
   background-color: $gray-100;
 }
 
+/* Index Page */
 .home {
   .o-page-top {
     &__wrapper {
@@ -90,6 +92,7 @@
   }
 }
 
+/* About Page */
 .about {
   .o-page-top {
     &__wrapper {
@@ -148,10 +151,52 @@
   }
 }
 
+/* News Page */
 .news {
-
+  .o-page-top {
+    .o-column {
+      z-index: 99;
+    }
+    &__title {
+      .title {
+        color: $white;
+      }
+    }
+    .o-breadcrumb {
+      ul {
+        li {
+          &:before {
+            color: $white;
+          }
+          a {
+            color: $white;
+            text-decoration: underline;
+          }
+          span {
+            color: $white;
+          }
+        }
+      }
+    }
+    #o-parallax-parent {
+      position: relative;
+      overflow: hidden;
+    }
+    #o-parallax-child {
+      height: 200%;
+      background-image: linear-gradient(125deg, rgba(9, 63, 135, 0.5), rgba(220, 53, 69, 0.5)), url(../images/news-bg-page-top.jpg);
+      background-size: cover;
+      background-position: center center;
+      position: absolute;
+      top: -100%;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
 }
 
+/* Contact Page */
 .contact {
   .o-page-top {
     background: linear-gradient(#ddecee, #fff);
@@ -168,6 +213,7 @@
       padding: 0;
 
       .o-p-contact {
+        margin-top: -40px;
 
         &__body {
           position: relative;
@@ -240,3 +286,70 @@
   }
 }
 
+/* Lucky Wheel Event Page */
+.lucky-wheel {
+  .o-page-top {
+
+  }
+
+  .o-page-main {
+    &__wrapper {
+      padding: 0;
+    }
+
+    /* Lucky Wheel Carousel */
+    .o-lw-carousel {
+      background-color: $blue;
+
+      &__wrapper {
+        padding: 6rem 0;
+      }
+
+      &__title {
+        .title {
+          color: $white;
+        }
+      }
+
+      &__sub {
+        .summary {
+          color: $white;
+        }
+      }
+
+      &__action {
+
+      }
+    }
+
+    /* Lucky Wheel Terms */
+    .o-lw-terms {
+
+      &__wrapper {
+        padding: 5rem 0;
+      }
+
+      &__title {
+
+      }
+    }
+
+    /* Lucky Wheel Awards */
+    .o-lw-awards {
+      background-color: $gray-200;
+
+      &__wrapper {
+        padding: 5rem 0;
+      }
+
+      &__boxes {
+        background-color: $white;
+        border-radius: 5px;
+      }
+    }
+  }
+
+  .o-page-bottom {
+
+  }
+}
