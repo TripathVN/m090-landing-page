@@ -54,6 +54,7 @@
 
         a {
           text-transform: capitalize;
+          text-decoration: underline;
         }
       }
     }
@@ -115,15 +116,31 @@
     position: relative;
 
     &__left {
+      background: linear-gradient(#ddecee, #fff);
+
       .space {
-        padding: 250px;
+        padding: 300px;
       }
     }
 
     &__right {
-      background-color: $blue;
+      background-image: url(../images/about-bg-page-top.jpg);
+      background-position: center top;
+      background-size: cover;
+      position: relative;
+
+      &:before {
+        background-color: rgba(9, 63, 135, 0.8);
+        content: "";
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+
       .space {
-        padding: 250px;
+        padding: 300px;
       }
     }
 
@@ -136,6 +153,9 @@
 
       .title {
         margin-bottom: 0;
+        font-size: 48px;
+        line-height: 1.3;
+        text-transform: uppercase;
       }
 
       figure {
@@ -154,14 +174,21 @@
 /* News Page */
 .news {
   .o-page-top {
-    .o-column {
-      z-index: 99;
+
+    &__wrapper {
+      padding: 240px 0;
     }
+
     &__title {
       .title {
         color: $white;
       }
     }
+
+    .o-column {
+      z-index: 99;
+    }
+
     .o-breadcrumb {
       ul {
         li {
@@ -178,13 +205,15 @@
         }
       }
     }
+
     #o-parallax-parent {
       position: relative;
       overflow: hidden;
     }
+
     #o-parallax-child {
       height: 200%;
-      background-image: linear-gradient(125deg, rgba(9, 63, 135, 0.5), rgba(220, 53, 69, 0.5)), url(../images/news-bg-page-top.jpg);
+      background-image: linear-gradient(90deg, rgba(9, 63, 135, 0.5), rgba(220, 53, 69, 0.5)), url(../images/news-bg-page-top.jpg);
       background-size: cover;
       background-position: center center;
       position: absolute;

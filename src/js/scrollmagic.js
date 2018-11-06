@@ -54,7 +54,7 @@ SM.parallax = function () {
 
     let newsBackgroundPageTop = new TimelineMax()
         .add([
-            TweenMax.fromTo("#o-parallax-child", 1, {y: 230}, {y: -0, ease: Linear.easeNone})
+            TweenMax.fromTo("#o-parallax-child", 1, {y: 100}, {y: 250, ease: Linear.easeNone})
         ]);
 
     new ScrollMagic.Scene({triggerElement: "#o-parallax-parent", duration: $(window).height()})

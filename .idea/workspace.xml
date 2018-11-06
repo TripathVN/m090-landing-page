@@ -3,15 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_page/page-top.html" afterPath="$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/_layouts/post.html" afterPath="$PROJECT_DIR$/src/app/_layouts/post.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/news.html" afterPath="$PROJECT_DIR$/src/app/news.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/about.html" afterPath="$PROJECT_DIR$/src/app/about.html" />
       <change beforePath="$PROJECT_DIR$/src/js/scrollmagic.js" afterPath="$PROJECT_DIR$/src/js/scrollmagic.js" />
-      <change beforePath="$PROJECT_DIR$/src/scss/base/_elements.scss" afterPath="$PROJECT_DIR$/src/scss/base/_elements.scss" />
       <change beforePath="$PROJECT_DIR$/src/scss/layout/_blog.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
       <change beforePath="$PROJECT_DIR$/src/scss/layout/_pages.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-      <change beforePath="$PROJECT_DIR$/src/scss/layout/_single-post.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_single-post.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4815756">
+    <splitter split-orientation="horizontal" split-proportion="0.49301144">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
@@ -38,7 +33,7 @@
             <entry file="file://$PROJECT_DIR$/src/app/news.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
-                  <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+                  <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
                   <folding>
                     <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
                   </folding>
@@ -46,21 +41,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
+          <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/app/about.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
-                  <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="page-top.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/app/_includes/_page/page-top.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+                <state relative-caret-position="323">
+                  <caret line="31" column="130" lean-forward="false" selection-start-line="31" selection-start-column="129" selection-end-line="31" selection-end-column="130" />
                   <folding />
                 </state>
               </provider>
@@ -69,8 +54,8 @@
           <file leaf-file-name="scrollmagic.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="447">
-                  <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
+                <state relative-caret-position="102">
+                  <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
                   <folding />
                 </state>
               </provider>
@@ -80,30 +65,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-374">
-                  <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#104#1028#0" expanded="false" />
-                    <element signature="e#335#1026#0" expanded="false" />
-                    <element signature="e#1043#1115#0" expanded="false" />
-                    <element signature="e#1132#1166#0" expanded="false" />
-                    <element signature="e#1191#1348#0" expanded="false" />
-                    <element signature="e#1374#2058#0" expanded="false" />
-                    <element signature="e#2082#2918#0" expanded="false" />
-                    <element signature="e#4463#5266#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_single-post.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="_single-post.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-post.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="357">
-                  <caret line="50" column="24" lean-forward="false" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+                  <caret line="56" column="7" lean-forward="false" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
                   <folding>
                     <element signature="e#110#304#0" expanded="false" />
                     <element signature="e#129#298#0" expanded="false" />
@@ -116,8 +82,18 @@
           <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/scss/helpers/_variables.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-17">
-                  <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="17" />
+                <state relative-caret-position="272">
+                  <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_carousel.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scss/module/_carousel.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1836">
+                  <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -126,11 +102,28 @@
           <file leaf-file-name="_blog.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="275">
-                  <caret line="67" column="11" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+                <state relative-caret-position="357">
+                  <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
                   <folding>
                     <element signature="e#726#866#0" expanded="false" />
-                    <element signature="e#1061#1230#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="329">
+                  <caret line="122" column="7" lean-forward="true" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
+                  <folding>
+                    <element signature="e#104#1066#0" expanded="false" />
+                    <element signature="e#1081#1153#0" expanded="false" />
+                    <element signature="e#1170#1204#0" expanded="false" />
+                    <element signature="e#1229#1386#0" expanded="false" />
+                    <element signature="e#2779#3037#0" expanded="false" />
+                    <element signature="e#3062#3119#0" expanded="false" />
+                    <element signature="e#5017#5820#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -142,9 +135,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>video</find>
-      <find>index.min.js</find>
-      <find>vn-</find>
       <find>asset_url</find>
       <find>o-page-top__caption</find>
       <find>localhost:3000</find>
@@ -171,7 +161,10 @@
       <find>o-breadcrumb</find>
       <find>o-p-blo</find>
       <find>background-image</find>
+      <find>carousel</find>
       <find>block</find>
+      <find>o-section</find>
+      <find>underline</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
@@ -219,7 +212,6 @@
         <option value="$PROJECT_DIR$/src/scss/module/_video.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
         <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
-        <option value="$PROJECT_DIR$/src/app/about.html" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -242,19 +234,20 @@
         <option value="$PROJECT_DIR$/src/app/_posts/2017-09-16-kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan.md" />
         <option value="$PROJECT_DIR$/src/app/_posts/2017-09-01-mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau.md" />
         <option value="$PROJECT_DIR$/src/app/_posts/2017-08-11-mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090.md" />
-        <option value="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
         <option value="$PROJECT_DIR$/src/scss/base/_elements.scss" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/app/lucky-wheel-game.html" />
         <option value="$PROJECT_DIR$/src/app/index.html" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
         <option value="$PROJECT_DIR$/src/app/news.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
-        <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
         <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
         <option value="$PROJECT_DIR$/src/scss/layout/_single-post.scss" />
+        <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
+        <option value="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
+        <option value="$PROJECT_DIR$/src/app/about.html" />
       </list>
     </option>
   </component>
@@ -360,6 +353,13 @@
               <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -368,6 +368,13 @@
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layout" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -594,11 +601,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541151938685</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update News Styles">
+      <created>1541490358671</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1541490358671</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203454000" />
+    <option name="totallyTimeSpent" value="207589000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -728,7 +742,8 @@
     <MESSAGE value="Update Yarn.lock" />
     <MESSAGE value="Update Favicon &amp; Some Content" />
     <MESSAGE value="Update some contents" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update some contents" />
+    <MESSAGE value="Update News Styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update News Styles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -786,13 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -955,14 +963,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_carousel.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1038,18 +1038,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="56" column="59" lean-forward="false" selection-start-line="56" selection-start-column="59" selection-end-line="56" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="357">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#726#866#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/helpers/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="17" />
+        <state relative-caret-position="272">
+          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-post.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="56" column="7" lean-forward="false" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding>
+            <element signature="e#110#304#0" expanded="false" />
+            <element signature="e#129#298#0" expanded="false" />
+            <element signature="e#928#963#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_carousel.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1062,60 +1092,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/news.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
           <folding>
             <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+    <entry file="file://$PROJECT_DIR$/src/app/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding>
-            <element signature="e#104#1028#0" expanded="false" />
-            <element signature="e#335#1026#0" expanded="false" />
-            <element signature="e#1043#1115#0" expanded="false" />
-            <element signature="e#1132#1166#0" expanded="false" />
-            <element signature="e#1191#1348#0" expanded="false" />
-            <element signature="e#1374#2058#0" expanded="false" />
-            <element signature="e#2082#2918#0" expanded="false" />
-            <element signature="e#4463#5266#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="67" column="11" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
-          <folding>
-            <element signature="e#726#866#0" expanded="false" />
-            <element signature="e#1061#1230#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="31" column="130" lean-forward="false" selection-start-line="31" selection-start-column="129" selection-end-line="31" selection-end-column="130" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-post.scss">
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="50" column="24" lean-forward="false" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        <state relative-caret-position="329">
+          <caret line="122" column="7" lean-forward="true" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
           <folding>
-            <element signature="e#110#304#0" expanded="false" />
-            <element signature="e#129#298#0" expanded="false" />
-            <element signature="e#928#963#0" expanded="false" />
+            <element signature="e#104#1066#0" expanded="false" />
+            <element signature="e#1081#1153#0" expanded="false" />
+            <element signature="e#1170#1204#0" expanded="false" />
+            <element signature="e#1229#1386#0" expanded="false" />
+            <element signature="e#2779#3037#0" expanded="false" />
+            <element signature="e#3062#3119#0" expanded="false" />
+            <element signature="e#5017#5820#0" expanded="false" />
           </folding>
         </state>
       </provider>
