@@ -17,6 +17,10 @@
 
 /* Branding */
 .o-branding {
+  @media (max-width: 992px) {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
   img {
     max-width: 10rem; /*160px*/
   }

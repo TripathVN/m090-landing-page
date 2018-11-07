@@ -10,7 +10,18 @@ footer.site-footer {
   }
 
   .o-footer-main {
-    padding: 6rem 0;
+    padding: 96px 0;
+
+    @media (max-width: 992px) {
+      padding: 66px 0;
+    }
+
+    .o-column {
+      @media (max-width: 992px) {
+        padding-top: 15px;
+        padding-bottom: 15px;
+      }
+    }
 
     .title {
       color: $white;

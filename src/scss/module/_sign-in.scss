@@ -7,6 +7,10 @@
   &__wrapper {
     background-color: $gray-100;
     padding: 82px 0;
+
+    @media (max-width: 992px) {
+      padding: 62px 0;
+    }
   }
 
   &__title {

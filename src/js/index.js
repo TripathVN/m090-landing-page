@@ -20,9 +20,23 @@ OM.smoothscroll = function () {
     new SmoothScroll;
 };
 
+/**
+ * SmoothScroll
+ */
+OM.smoothscroll();
+
 OM.parallax = function () {
     SM.parallax();
 };
+
+let outerWidth = $(window).width();
+
+if (outerWidth + 17 > 992) {
+    /**
+     * Parallax
+     */
+    OM.parallax();
+}
 
 OM.carouselParallax = function () {
     let scene = document.getElementById("o-scene");
@@ -79,15 +93,6 @@ OM.tippy = function () {
  * Tippy
  */
 OM.tippy();
-
-/**
- * SmoothScroll
- */
-OM.smoothscroll();
-/**
- * Parallax
- */
-OM.parallax();
 
 $(document).ready(function () {
 

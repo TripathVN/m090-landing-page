@@ -27,10 +27,18 @@
     background-color: $white;
     border-radius: 5px;
     box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+
+    @media (max-width: 992px) {
+      width: auto;
+    }
   }
 
   &__right {
     position: relative;
+
+    @media (max-width: 576px) {
+      padding: 60px 0 40px 0;
+    }
 
     figure.o-map-svg {
       margin: 0 auto;
@@ -63,23 +71,41 @@
     &.item1 {
       top: -5%;
       left: 35%;
+      @media (max-width: 576px) {
+        top: 0;
+      }
     }
 
     &.item2 {
       top: 18%;
       left: 40%;
+      @media (max-width: 576px) {
+        left: 32%;
+      }
     }
 
     &.item3 {
       top: 35%;
       right: 12%;
       left: unset;
+
+      @media (max-width: 1200px) {
+        right: 21%;
+      }
+      @media (max-width: 768px) {
+        right: 10%;
+      }
     }
 
     &.item4 {
       top: unset;
       bottom: 10%;
       left: 40%;
+
+      @media (max-width: 576px) {
+        bottom: 14%;
+        left: 38%;
+      }
     }
   }
 
@@ -135,6 +161,11 @@
       padding: 0 36px;
       border-top-left-radius: 5px;
       border-top-right-radius: 5px;
+
+      @media (max-width: 576px) {
+        flex-direction: column;
+        text-align: center;
+      }
     }
 
     &--left {
@@ -144,6 +175,10 @@
     &--right {
       flex: 1;
       padding: 24px 0 24px 24px;
+
+      @media (max-width: 576px) {
+        padding: 24px 0;
+      }
     }
 
     &--testimonial {

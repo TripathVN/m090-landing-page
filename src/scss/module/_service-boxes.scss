@@ -7,6 +7,10 @@
   &__wrapper {
     text-align: center;
     padding: 90px 0 36px 0;
+
+    @media (max-width: 992px) {
+      padding: 60px 0 6px 0;
+    }
   }
 
   &__block {

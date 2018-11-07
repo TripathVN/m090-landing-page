@@ -25,6 +25,10 @@
       font-size: 30px;
       font-weight: 200;
       color: $gray-900;
+
+      @media (max-width: 992px) {
+        padding: 0;
+      }
     }
   }
 }
