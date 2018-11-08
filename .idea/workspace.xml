@@ -3,46 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/4-thoa-thuan-hop-tac-quan-trong-ve-ict-giua-doanh-nghiep-viet-nam-han-quoc-duoc-ky-ket/index.html" afterPath="$PROJECT_DIR$/4-thoa-thuan-hop-tac-quan-trong-ve-ict-giua-doanh-nghiep-viet-nam-han-quoc-duoc-ky-ket/index.html" />
-      <change beforePath="$PROJECT_DIR$/assets/main.css" afterPath="$PROJECT_DIR$/assets/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/minima-social-icons.svg" afterPath="$PROJECT_DIR$/assets/minima-social-icons.svg" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change beforePath="$PROJECT_DIR$/cuoc-chuyen-vung-quoc-te-khi-gia-ca-khong-con-la-tro-ngai/index.html" afterPath="$PROJECT_DIR$/cuoc-chuyen-vung-quoc-te-khi-gia-ca-khong-con-la-tro-ngai/index.html" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="$PROJECT_DIR$/feed.xml" />
-      <change beforePath="$PROJECT_DIR$/gia-cuoc-chuyen-vung-quoc-te-da-qua-thoi-dat-do/index.html" afterPath="$PROJECT_DIR$/gia-cuoc-chuyen-vung-quoc-te-da-qua-thoi-dat-do/index.html" />
-      <change beforePath="$PROJECT_DIR$/gioi-thieu-ve-m090/index.html" afterPath="$PROJECT_DIR$/gioi-thieu-ve-m090/index.html" />
-      <change beforePath="$PROJECT_DIR$/images/mobile-mock-up.png" afterPath="$PROJECT_DIR$/images/mobile-mock-up.png" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/index.min.js" afterPath="$PROJECT_DIR$/js/index.min.js" />
-      <change beforePath="$PROJECT_DIR$/kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan/index.html" afterPath="$PROJECT_DIR$/kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan/index.html" />
-      <change beforePath="$PROJECT_DIR$/lien-he/index.html" afterPath="$PROJECT_DIR$/lien-he/index.html" />
-      <change beforePath="$PROJECT_DIR$/mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090/index.html" afterPath="$PROJECT_DIR$/mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090/index.html" />
-      <change beforePath="$PROJECT_DIR$/mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau/index.html" afterPath="$PROJECT_DIR$/mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau/index.html" />
-      <change beforePath="$PROJECT_DIR$/nha-mang-tung-goi-data-roaming-moi-gia-re-nhu-o-nha/index.html" afterPath="$PROJECT_DIR$/nha-mang-tung-goi-data-roaming-moi-gia-re-nhu-o-nha/index.html" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
-      <change beforePath="$PROJECT_DIR$/tin-tuc/index.html" afterPath="$PROJECT_DIR$/tin-tuc/index.html" />
-      <change beforePath="$PROJECT_DIR$/vendors/aos/aos.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/aos/aos.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/ev-emitter/ev-emitter.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/gsap/TweenMax.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/jquery-mousewheel/jquery.mousewheel.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/jquery/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/lazysizes/lazysizes.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/popper/popper.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/ScrollMagic.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/plugins/animation.gsap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/plugins/animation.velocity.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/ajax-loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick-theme.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vendors/smoothscroll-for-websites/SmoothScroll.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/vong-quay-may-man/index.html" afterPath="$PROJECT_DIR$/vong-quay-may-man/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -462,7 +422,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207933000" />
+    <option name="totallyTimeSpent" value="207964000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,10 +438,10 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31847826" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23127036" sideWeight="0.5234541" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28555918" sideWeight="0.52558637" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23127036" sideWeight="0.47654584" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28555918" sideWeight="0.47441363" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25426438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
