@@ -88,8 +88,17 @@
       margin-bottom: 0;
       font-family: $headings-font-family;
       font-weight: 300;
-      line-height: 1.7;
+      line-height: 24px;
       font-size: 16px;
+    }
+
+    &:before {
+      position: absolute;
+      font-size: 48px;
+      font-family: "Font Awesome\ 5 Free";
+      font-weight: 900;
+      color: $white;
+      text-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
     }
 
     &:after {
@@ -110,11 +119,17 @@
       box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
       top: 40% !important;
       left: 0 !important;
-      padding: 12px 16px;
+      padding: 12px 16px 12px 36px;
       border-radius: 5px;
 
       @media (max-width: 362px) {
         top: 29% !important;
+      }
+
+      &:before {
+        content: "\f247";
+        top: -30px;
+        left: -20px;
       }
 
       &:after {
@@ -129,11 +144,17 @@
       top: 60% !important;
       right: 0 !important;
       left: unset !important;
-      padding: 12px 16px;
+      padding: 12px 36px 12px 16px;
       border-radius: 5px;
 
       @media (max-width: 362px) {
         top: 49% !important;
+      }
+
+      &:before {
+        content: "\f4d3";
+        top: -30px;
+        right: -20px;
       }
 
       &:after {
@@ -150,11 +171,17 @@
       top: unset !important;
       bottom: 10% !important;
       left: 0 !important;
-      padding: 12px 16px;
+      padding: 12px 24px  12px 36px;
       border-radius: 5px;
 
       @media (max-width: 362px) {
         bottom: 14% !important;
+      }
+
+      &:before {
+        content: "\f0ad";
+        top: -30px;
+        left: -20px;
       }
 
       &:after {
