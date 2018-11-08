@@ -121,7 +121,6 @@
     &__left {
       background: linear-gradient(#ddecee, #fff);
 
-
       .space {
         padding: 300px 0;
 
@@ -314,6 +313,10 @@
 
         &__address {
 
+          @media (max-width: 992px) {
+            flex-direction: column;
+          }
+
           &--left {
             background-color: $red;
             padding: 2rem 1.75rem;
@@ -376,7 +379,6 @@
             min-height: 16rem
           }
         }
-
       }
     }
   }
