@@ -22,6 +22,26 @@
       <change beforePath="$PROJECT_DIR$/robots.txt" afterPath="$PROJECT_DIR$/robots.txt" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
       <change beforePath="$PROJECT_DIR$/tin-tuc/index.html" afterPath="$PROJECT_DIR$/tin-tuc/index.html" />
+      <change beforePath="$PROJECT_DIR$/vendors/aos/aos.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/aos/aos.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/ev-emitter/ev-emitter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/gsap/TweenMax.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/jquery-mousewheel/jquery.mousewheel.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/jquery/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/lazysizes/lazysizes.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/popper/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/ScrollMagic.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/plugins/animation.gsap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/scrollmagic/plugins/animation.velocity.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/ajax-loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/fonts/slick.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick-theme.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/slick-carousel/slick.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendors/smoothscroll-for-websites/SmoothScroll.js" afterPath="" />
       <change beforePath="$PROJECT_DIR$/vong-quay-may-man/index.html" afterPath="$PROJECT_DIR$/vong-quay-may-man/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,15 +52,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="apple-touch-icon.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/apple-touch-icon.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -201,6 +213,11 @@
             <path>
               <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
               <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendors" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -445,7 +462,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207864000" />
+    <option name="totallyTimeSpent" value="207933000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,15 +475,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31847826" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23127036" sideWeight="0.52132195" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23127036" sideWeight="0.5234541" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23127036" sideWeight="0.47867805" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23127036" sideWeight="0.47654584" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25426438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2597826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
