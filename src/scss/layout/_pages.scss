@@ -353,30 +353,30 @@
         }
 
         &__form {
-          padding: 2rem;
+          padding: 4rem 2rem;
 
-          @media (max-width: 992px) {
-            padding-left: inherit;
-            padding-right: inherit;
-          }
+          &--boxes {
+            border-bottom: 1px dashed $gray-200;
+            padding-bottom: 24px;
+            margin-bottom: 24px;
 
-          label {
-            font-weight: 700;
-          }
+            p.summary {
+              margin-bottom: 0;
+            }
 
-          &--title {
-            .title {
-              color: $black;
-              font-weight: 300;
+            &:last-child {
+              border-bottom: none;
+              padding-bottom: 0;
+              margin-bottom: 0;
             }
           }
 
-          &--summary {
-
-          }
-
-          textarea {
-            min-height: 16rem
+          &--highlight {
+            color: $red;
+            a {
+              color: $red;
+              text-decoration: underline;
+            }
           }
         }
       }

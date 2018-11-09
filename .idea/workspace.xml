@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="Update News Styles">
+    <list default="true" id="fd511892-965a-4539-8d6e-aabbd1953ac0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/head.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" afterPath="$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/about.html" afterPath="$PROJECT_DIR$/src/app/about.html" />
+      <change beforePath="$PROJECT_DIR$/src/app/contact.html" afterPath="$PROJECT_DIR$/src/app/contact.html" />
       <change beforePath="$PROJECT_DIR$/src/app/index.html" afterPath="$PROJECT_DIR$/src/app/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/images/bui-son-nam.jpg" afterPath="$PROJECT_DIR$/src/images/bui-son-nam.jpg" />
+      <change beforePath="$PROJECT_DIR$/src/js/scrollmagic.js" afterPath="$PROJECT_DIR$/src/js/scrollmagic.js" />
+      <change beforePath="$PROJECT_DIR$/src/scss/base/_elements.scss" afterPath="$PROJECT_DIR$/src/scss/base/_elements.scss" />
       <change beforePath="$PROJECT_DIR$/src/scss/components/_navigation.scss" afterPath="$PROJECT_DIR$/src/scss/components/_navigation.scss" />
+      <change beforePath="$PROJECT_DIR$/src/scss/layout/_pages.scss" afterPath="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
       <change beforePath="$PROJECT_DIR$/src/scss/module/_carousel.scss" afterPath="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +22,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.58613294">
+    <splitter split-orientation="horizontal" split-proportion="0.55325234">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/app/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-                  <folding>
-                    <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
-                  </folding>
+                <state relative-caret-position="986">
+                  <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -34,36 +38,47 @@
           <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/app/contact.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="850">
-                  <caret line="50" column="42" lean-forward="false" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+                <state relative-caret-position="215">
+                  <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="scrollmagic.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="site-footer.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-footer.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="841">
+                  <caret line="57" column="61" lean-forward="false" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main-navigation-1.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="73" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="scrollmagic.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <state relative-caret-position="476">
+                  <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
                   <folding>
                     <element signature="e#15#58#0" expanded="true" />
-                    <element signature="e#361#849#0" expanded="false" />
-                    <element signature="e#1046#1286#0" expanded="false" />
-                    <element signature="e#1493#1734#0" expanded="false" />
-                    <element signature="e#1943#2077#0" expanded="false" />
-                    <element signature="e#2302#2408#0" expanded="false" />
+                    <element signature="e#1840#2327#0" expanded="false" />
+                    <element signature="e#1903#2156#0" expanded="false" />
+                    <element signature="e#2364#2748#0" expanded="false" />
+                    <element signature="e#2429#2571#0" expanded="false" />
+                    <element signature="e#2786#3160#0" expanded="false" />
+                    <element signature="e#2860#2974#0" expanded="false" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/js/index.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -75,9 +90,27 @@
           <file leaf-file-name="_carousel.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/scss/module/_carousel.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="343">
-                  <caret line="90" column="23" lean-forward="false" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
+                <state relative-caret-position="303">
+                  <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_pages.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="292">
+                  <caret line="355" column="20" lean-forward="false" selection-start-line="355" selection-start-column="20" selection-end-line="355" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#104#1100#0" expanded="false" />
+                    <element signature="e#1115#1187#0" expanded="false" />
+                    <element signature="e#1204#1238#0" expanded="false" />
+                    <element signature="e#1263#1420#0" expanded="false" />
+                    <element signature="e#1446#3313#0" expanded="false" />
+                    <element signature="e#3337#4294#0" expanded="false" />
+                    <element signature="e#6581#6610#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -88,6 +121,20 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+      <find>dist.</find>
+      <find>ab</find>
+      <find>&lt;body</find>
+      <find>broww</find>
+      <find>browser-sync</find>
+      <find>img</find>
+      <find>absolute_url</find>
+      <find>data-src=&quot;{{&quot; images</find>
+      <find>data-src=&quot;{{</find>
+      <find>form-row</find>
+      <find>inp[ut</find>
+      <find>src=</find>
+      <find>col-md-</find>
+      <find>svg</find>
       <find>svg/</find>
       <find>imagemin</find>
       <find>breadcumb</find>
@@ -98,26 +145,12 @@
       <find>o-p-blo</find>
       <find>background-image</find>
       <find>carousel</find>
-      <find>block</find>
       <find>o-section</find>
       <find>underline</find>
-      <find>.o-main-navigation</find>
-      <find>o-header-main</find>
-      <find>300px</find>
-      <find>about</find>
-      <find>footer</find>
-      <find>col-sm</find>
-      <find>main-navig</find>
-      <find>header</find>
-      <find>o-bread</find>
-      <find>.contct</find>
-      <find>space</find>
-      <find>col-sm-</find>
-      <find>40px</find>
-      <find>o-branding</find>
-      <find>24px</find>
-      <find>contact</find>
-      <find>red</find>
+      <find>section</find>
+      <find>block</find>
+      <find>serv</find>
+      <find>o-blockquote</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;o-</replace>
@@ -125,7 +158,6 @@
       <replace>_site</replace>
       <replace>relative_url</replace>
       <replace>data-src=&quot;{{&quot;images</replace>
-      <replace>col-lg</replace>
       <replace>col-lg-</replace>
     </replaceStrings>
     <dirStrings>
@@ -151,16 +183,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/scss/helpers/_variables.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_navigations/top-navigation.html" />
+        <option value="$PROJECT_DIR$/src/scss/module/_sign-in.scss" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_header.scss" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_footer.scss" />
         <option value="$PROJECT_DIR$/src/scss/vendors/_tippy.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_parallax.scss" />
+        <option value="$PROJECT_DIR$/src/js/index.js" />
+        <option value="$PROJECT_DIR$/src/scss/module/_welcome.scss" />
+        <option value="$PROJECT_DIR$/src/scss/module/_service-boxes.scss" />
+        <option value="$PROJECT_DIR$/src/scss/module/_media.scss" />
         <option value="$PROJECT_DIR$/src/scss/module/_video.scss" />
         <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header-1.html" />
+        <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
         <option value="$PROJECT_DIR$/src/scss/base/_global.scss" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/blog.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/dist/kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan/index.html" />
@@ -174,34 +218,22 @@
         <option value="$PROJECT_DIR$/src/app/_posts/2017-09-01-mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau.md" />
         <option value="$PROJECT_DIR$/src/app/_posts/2017-08-11-mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090.md" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
-        <option value="$PROJECT_DIR$/src/scss/base/_elements.scss" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/src/app/lucky-wheel-game.html" />
         <option value="$PROJECT_DIR$/src/app/news.html" />
         <option value="$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
         <option value="$PROJECT_DIR$/src/app/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" />
-        <option value="$PROJECT_DIR$/src/app/about.html" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_footer.scss" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
         <option value="$PROJECT_DIR$/src/scss/layout/_single-post.scss" />
-        <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
-        <option value="$PROJECT_DIR$/src/js/index.js" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_header.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_misc.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_welcome.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_service-boxes.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_media.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_sign-in.scss" />
-        <option value="$PROJECT_DIR$/src/scss/module/_map.scss" />
-        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
-        <option value="$PROJECT_DIR$/src/app/contact.html" />
-        <option value="$PROJECT_DIR$/src/app/_layouts/index.html" />
-        <option value="$PROJECT_DIR$/src/app/index.html" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_blog.scss" />
         <option value="$PROJECT_DIR$/src/scss/components/_navigation.scss" />
+        <option value="$PROJECT_DIR$/src/scss/base/_elements.scss" />
+        <option value="$PROJECT_DIR$/src/app/about.html" />
+        <option value="$PROJECT_DIR$/src/app/contact.html" />
+        <option value="$PROJECT_DIR$/src/scss/layout/_pages.scss" />
+        <option value="$PROJECT_DIR$/src/app/_includes/_site/site-footer.html" />
+        <option value="$PROJECT_DIR$/src/app/index.html" />
+        <option value="$PROJECT_DIR$/src/js/scrollmagic.js" />
         <option value="$PROJECT_DIR$/src/scss/module/_carousel.scss" />
-        <option value="$PROJECT_DIR$/src/app/_includes/_site/head.html" />
       </list>
     </option>
   </component>
@@ -274,7 +306,37 @@
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_navigations" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_page" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_includes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_site" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
+              <item name="landing-page" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="landing-page" type="b2602c69:ProjectViewProjectNode" />
@@ -562,11 +624,25 @@
       <option name="project" value="LOCAL" />
       <updated>1541490358671</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Update some styles">
+      <created>1541494496941</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1541494496941</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Update some styles">
+      <created>1541675155215</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1541675155215</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227273000" />
+    <option name="totallyTimeSpent" value="221153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -583,10 +659,10 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31847826" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28555918" sideWeight="0.52558637" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22801302" sideWeight="0.52771854" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28555918" sideWeight="0.47441363" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22801302" sideWeight="0.47228146" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25426438" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -672,8 +748,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="PHPStorm" />
-    <MESSAGE value="Update more Website Structure" />
     <MESSAGE value="Update more styles" />
     <MESSAGE value="Update major styles" />
     <MESSAGE value="Update ScrollMagic Parallax on Maps" />
@@ -697,7 +771,9 @@
     <MESSAGE value="Update Favicon &amp; Some Content" />
     <MESSAGE value="Update some contents" />
     <MESSAGE value="Update News Styles" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update News Styles" />
+    <MESSAGE value="Fix some responsive bugs" />
+    <MESSAGE value="Update some styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update some styles" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,274 +782,49 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-4.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-6.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-7.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-5.md" />
     <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business-2.md" />
     <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-13-how-to-create-a-press-kit-that-gets-publicity-for-your-business.md" />
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/blog.html" />
     <entry file="file://$PROJECT_DIR$/dist/kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/vendors/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="4603" column="1" lean-forward="false" selection-start-line="4603" selection-start-column="1" selection-end-line="4603" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/base/_global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_data/main-navigation.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/footer-navigation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-10-16-cuoc-chuyen-vung-quoc-te-khi-gia-ca-khong-con-la-tro-ngai.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-10-11-gia-cuoc-chuyen-vung-quoc-te-da-qua-thoi-dat-do.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-09-18-nha-mang-tung-goi-data-roaming-moi-gia-re-nhu-o-nha.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-22-4-thoa-thuan-hop-tac-quan-trong-ve-ict-giua-doanh-nghiep-viet-nam-han-quoc-duoc-ky-ket.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-09-01-mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-09-16-kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendors/bootstrap/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/src/scss/base/_global.scss" />
+    <entry file="file://$PROJECT_DIR$/src/app/_data/main-navigation.yml" />
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-10-16-cuoc-chuyen-vung-quoc-te-khi-gia-ca-khong-con-la-tro-ngai.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-10-11-gia-cuoc-chuyen-vung-quoc-te-da-qua-thoi-dat-do.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-09-18-nha-mang-tung-goi-data-roaming-moi-gia-re-nhu-o-nha.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2018-03-22-4-thoa-thuan-hop-tac-quan-trong-ve-ict-giua-doanh-nghiep-viet-nam-han-quoc-duoc-ky-ket.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-09-01-mobifone-mo-goi-cuoc-tuy-chinh-theo-nhu-cau.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-09-16-kiem-soat-goi-cuoc-mobifone-m090-tren-dien-thoai-khong-lo-tru-tien-oan.md" />
     <entry file="file://$PROJECT_DIR$/src/scss/module/_testimonials.scss" />
     <entry file="file://$PROJECT_DIR$/src/scss/module/_subscription.scss" />
-    <entry file="file://$PROJECT_DIR$/apple-touch-icon-57x57.png" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/apple-touch-icon-57x57.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="32" lean-forward="false" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/base/_elements.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="236" column="9" lean-forward="false" selection-start-line="236" selection-start-column="9" selection-end-line="236" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/lucky-wheel-game.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-08-11-mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="68">
-            <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_page/page-top.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/helpers/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_misc.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_sign-in.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_media.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="32" lean-forward="false" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="48" lean-forward="false" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="42" lean-forward="false" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#58#0" expanded="true" />
-            <element signature="e#361#849#0" expanded="false" />
-            <element signature="e#1046#1286#0" expanded="false" />
-            <element signature="e#1493#1734#0" expanded="false" />
-            <element signature="e#1943#2077#0" expanded="false" />
-            <element signature="e#2302#2408#0" expanded="false" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss" />
+    <entry file="file://$PROJECT_DIR$/src/app/lucky-wheel-game.html" />
+    <entry file="file://$PROJECT_DIR$/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_blog.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/helpers/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-post.scss" />
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_page/page-top.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/post.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/news.html" />
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_welcome.scss" />
+    <entry file="file://$PROJECT_DIR$/src/scss/module/_service-boxes.scss" />
+    <entry file="file://$PROJECT_DIR$/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/index.js">
@@ -984,107 +835,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-header.html">
+    <entry file="file://$PROJECT_DIR$/src/app/_posts/2017-08-11-mobifone-cham-soc-khach-hang-theo-hinh-thuc-trao-quyen-cho-nguoi-dung-voi-dich-vu-m090.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/base/_elements.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="54" lean-forward="false" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="381">
+          <caret line="253" column="20" lean-forward="false" selection-start-line="253" selection-start-column="20" selection-end-line="253" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_service-boxes.scss">
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/main-navigation-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="15" column="73" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_map.scss">
+    <entry file="file://$PROJECT_DIR$/src/app/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="68" column="5" lean-forward="false" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="224">
+          <caret line="31" column="93" lean-forward="false" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
           <folding>
-            <element signature="n#style#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/module/_welcome.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="316" column="34" lean-forward="false" selection-start-line="316" selection-start-column="34" selection-end-line="316" selection-end-column="34" />
-          <folding>
-            <element signature="e#104#1100#0" expanded="false" />
-            <element signature="e#1115#1187#0" expanded="false" />
-            <element signature="e#1204#1238#0" expanded="false" />
-            <element signature="e#1263#1420#0" expanded="false" />
-            <element signature="e#2033#2216#0" expanded="false" />
-            <element signature="e#3884#3941#0" expanded="false" />
-            <element signature="e#4829#5012#0" expanded="false" />
-            <element signature="e#5151#5540#0" expanded="false" />
-            <element signature="e#5561#5950#0" expanded="false" />
-            <element signature="e#5978#6428#0" expanded="false" />
-            <element signature="e#6540#7343#0" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#section#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#figcaption#0;n#figure#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#section#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#0;n#p#1;n#div#7;n#div#0;n#div#0;n#div#0;n#section#1;n#section#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/components/_navigation.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="161" column="25" lean-forward="false" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+        <state relative-caret-position="170">
+          <caret line="154" column="37" lean-forward="false" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/layout/_single-post.scss">
+    <entry file="file://$PROJECT_DIR$/src/scss/layout/_pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state relative-caret-position="292">
+          <caret line="355" column="20" lean-forward="false" selection-start-line="355" selection-start-column="20" selection-end-line="355" selection-end-column="20" />
           <folding>
-            <element signature="e#1009#1044#0" expanded="false" />
+            <element signature="e#104#1100#0" expanded="false" />
+            <element signature="e#1115#1187#0" expanded="false" />
+            <element signature="e#1204#1238#0" expanded="false" />
+            <element signature="e#1263#1420#0" expanded="false" />
+            <element signature="e#1446#3313#0" expanded="false" />
+            <element signature="e#3337#4294#0" expanded="false" />
+            <element signature="e#6581#6610#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/head.html">
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_navigations/footer-navigation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/_includes/_site/site-footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="57" column="61" lean-forward="false" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="64" column="10" lean-forward="false" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/module/_carousel.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="90" column="23" lean-forward="false" selection-start-line="90" selection-start-column="23" selection-end-line="90" selection-end-column="23" />
+        <state relative-caret-position="303">
+          <caret line="89" column="22" lean-forward="false" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/scrollmagic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#58#0" expanded="true" />
+            <element signature="e#1840#2327#0" expanded="false" />
+            <element signature="e#1903#2156#0" expanded="false" />
+            <element signature="e#2364#2748#0" expanded="false" />
+            <element signature="e#2429#2571#0" expanded="false" />
+            <element signature="e#2786#3160#0" expanded="false" />
+            <element signature="e#2860#2974#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
