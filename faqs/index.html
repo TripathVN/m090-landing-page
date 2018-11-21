@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<title>M090 - Ứng dụng quản lý tài khoản MobiFone toàn diện</title>
+
+	<meta name="description" content="M090 - Ứng dụng quản lý tài khoản MobiFone toàn diện"/>
+	<meta name="keywords" content="free, html5, css3, responsive, template, responsive"/>
+	<meta name="author" content="Tu Dinh Xuan"/>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png"/>
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png"/>
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png"/>
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png"/>
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png"/>
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png"/>
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png"/>
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16"/>
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32"/>
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96"/>
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.2/dist/jquery.fancybox.min.css" />
+
+	<link rel="stylesheet" href="/vendors/bootstrap/css/bootstrap.min.css" type='text/css' media='all'/>
+	<link rel="stylesheet" href="/vendors/bootstrap/css/bootstrap-reboot.min.css" type='text/css' media='all'/>
+	<link rel="stylesheet" href="/vendors/font-awesome/css/all.min.css" type='text/css' media='all'/>
+	<link rel="stylesheet" href="/vendors/tippy.js/dist/tippy.css" type='text/css' media='all'/>
+	<link rel="stylesheet" href="/css/styles.css" type='text/css' media='all'/>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128962081-1"></script>
+	<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-128962081-1');
+	</script>
+
+</head>
+
+<body class="o-body o-page faqs faqs ">
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+	 attribution=setup_tool
+	 page_id="1633026096770061"
+	 theme_color="#00579c"
+	 logged_in_greeting="Hi! M090 có thể giúp gì cho bạn?"
+	 logged_out_greeting="Hi! M090 có thể giúp gì cho bạn?">
+</div>
+
+<div class="o-wrapper">
+	<div id="page" class="hfeed site">
+		<header id="site-header" class="site-header style-1">
+
+    <section class="o-header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav id="o-top-navigation" class="o-top-navigation">
+    <div class="o-top-navigation__wrapper">
+        <div class="o-top-menu">
+            <nav id="site-navigation--top" class="site-navigation--top navbar navbar-expand-md justify-content-end">
+                <ul class="navbar-nav">
+                    <li id="nav-item-top-01" class="nav-item">
+                        <a class="nav-link sign-in" href="#">ĐĂNG NHẬP</a>
+                    </li>
+                    <li id="nav-item-top-02" class="nav-item">
+                        <a class="nav-link sign-up" href="#">ĐĂNG KÝ</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</nav>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="o-header-main">
+        <div class="o-header-main__wrapper">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-lg-2 align-self-center">
+                        <div class="o-branding h-100">
+                            <a class="o-branding__link" href="/">
+                                <img class="lazyload" data-src="/images/logo.png" alt="Ứng dụng M090">
+                            </a>
+                        </div><!--branding-->
+                    </div>
+                    <div class="col-12 col-lg-10 align-self-center">
+                        <nav id="o-main-navigation" class="o-main-navigation">
+    <div class="o-main-navigation__wrapper">
+        <div class="o-main-menu">
+            <nav id="site-navigation--main" class="site-navigation--main navbar navbar-expand-md justify-content-end">
+                <ul class="navbar-nav">
+                    <li id="nav-item-main-01" class="nav-item">
+                        <a class="nav-link active" href="/">TRANG CHỦ</a>
+                    </li>
+                    <li id="nav-item-main-02" class="nav-item">
+                        <a class="nav-link" href="/gioi-thieu-ve-m090/">VỀ M090</a>
+                    </li>
+                    <li id="nav-item-main-03" class="nav-item">
+                        <a class="nav-link" href="/tin-tuc/">TIN TỨC</a>
+                    </li>
+                    <li id="nav-item-main-04" class="nav-item">
+                        <a class="nav-link" href="/faqs/">FAQs</a>
+                    </li>
+                    <li id="nav-item-main-05" class="nav-item">
+                        <a class="nav-link" href="/lien-he/">LIÊN HỆ</a>
+                    </li>
+                    <li id="nav-item-main-06" class="nav-item support">
+                        <a class="nav-link" href="#">9090</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</nav><!--main-navigation-->
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="o-header-bottom"></section>
+
+</header>
+<!--!site-header-->
+
+<section id="site-content" class="site-content">
+
+    <div class="container-fluid o-no-padding">
+        <div class="row no-gutters">
+            <div class="col-12 o-column">
+
+                
+
+                <section id="o-page-top" class="o-page-top">
+	<div id="o-parallax-parent" class="o-page-top__wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 o-column d-flex flex-column justify-content-center">
+					<div class="o-page-top__block">
+						<div class="o-page-top__title">
+							<h1 class="title o-underline--1">FAQs</h1>
+						</div>
+						<div class="o-page-top__caption">
+							<p></p>
+						</div>
+					</div>
+					<div class="o-page-top__block">
+						<div class="o-breadcrumb">
+							<div class="o-breadcrumb__wrapper">
+								<ul class="list-inline list-unstyled">
+									<li class="list-inline-item"><a href="/">Trang Chủ</a></li>
+									<li class="list-inline-item"><span>FAQs</span></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="o-parallax-child"></div>
+	</div>
+</section><!--page-top-->
+
+                
+
+                <section id="o-page-main" class="o-page-main">
+                    <div class="o-page-main__wrapper">
+
+                        <div class="container">
+                            <div class="row">
+
+                                
+
+                                <div class="col-12 o-column">
+                                    <section id="o-p-faqs" class="o-p-faqs">
+    <div class="o-p-blog__wrapper">
+        <div class="row">
+
+            <div class="col-12 col-lg-1"></div>
+
+            <div class="col-12 col-lg-10">
+
+                <div id="accordionFaq" class="o-faqs">
+                    <div class="card">
+                        <div class="card-header" id="faq1">
+                            <h5 class="title">
+                                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFaq1" aria-expanded="true" aria-controls="collapseFaq1">
+                                    M090 là gì?
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="collapseFaq1" class="collapse show" aria-labelledby="faq1" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>M090 là ứng dụng quản lý tài khoản MobiFone toàn diện. Ứng dụng cho phép khách hàng tự tạo gói cước theo nhu cầu, tự đặt tên gói cước, quản lý, gia hạn, hủy gói cước đang sử dụng, nạp tiền, kiểm tra dung lượng đã sử dụng, tình trạng cước sử dụng, các thông tin khuyến mại và nhiều tiện ích khác trực tiếp ngay trên nhiều thiết bị như điện thoại, điện thoại thông minh, máy vi tính hoặc máy tính bảng.</p>
+                            </div>
+                        </div>
+                    </div><!--1-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq2">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq2" aria-expanded="false" aria-controls="collapseFaq2">
+                                    M090 cung cấp những dịch vụ nào?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq2" class="collapse" aria-labelledby="faq2" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <ul>
+                                    <li>Tự tạo gói cước theo nhu cầu cá nhân</li>
+                                    <li>Mua các gói cước tạo sẵn từ M090</li>
+                                    <li>Mua các gói cước có sẵn từ MobiFone</li>
+                                    <li>Tra cứu lịch sử tiêu dùng và dung lượng internet</li>
+                                    <li>Và nhiều dịch vụ tiện ích khác</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--2-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq3">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq3" aria-expanded="false" aria-controls="collapseFaq3">
+                                    M090 dành cho những tài khoản MobiFone nào?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq3" class="collapse" aria-labelledby="faq3" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <ul>
+                                    <li>Tài khoản trả trước còn hoạt động 2 chiều</li>
+                                    <li>Tài khoản trả sau còn hoạt động 2 chiều</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--3-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq4">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq4" aria-expanded="false" aria-controls="collapseFaq4">
+                                    Chú ý dành riêng cho những khách hàng đã đăng ký gói cước gọi nội mạng miễn phí!
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq4" class="collapse" aria-labelledby="faq4" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Trong trường hợp thuê bao trả sau đăng ký sử dụng gói cước gọi nội mạng miễn phí của MobiFone, nếu khách hàng đăng ký sử dụng gói cước Thoại liên mạng của M090, khi Khách hàng gọi nội mạng, hệ thống sẽ tự động trừ vào dung lượng Thoại liên mạng của Khách hàng.</p>
+                                <p>Do vậy, quý khách không nên mua các gói dung lượng Thoại trên M090 mà chỉ nên mua dung lượng Data và SMS. Để biết thêm chi tiết, quý khách vui lòng liên hệ Tổng đài CSKH 9090 của MobiFone.</p>
+                            </div>
+                        </div>
+                    </div><!--4-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq5">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq5" aria-expanded="false" aria-controls="collapseFaq5">
+                                    M090 cung cấp dịch vụ trên những nền tảng nào?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq5" class="collapse" aria-labelledby="faq5" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <ul>
+                                    <li><a href="http://m090.mobifone.vn">Website</a></li>
+                                    <li><a href="https://itunes.apple.com/vn/app/m090/id1248166870?mt=8">iOS App</a></li>
+                                    <li><a href="https://play.google.com/store/apps/details?id=vn.mobifone.m090&hl=en">Android App</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--5-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq6">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
+                                    M090 có những loại dung lượng nào?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq6" class="collapse" aria-labelledby="faq6" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <ul>
+                                    <li>Dung lượng Thoại</li>
+                                    <li>Dung lượng Data</li>
+                                    <li>Dung lượng SMS</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--6-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq7">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq7" aria-expanded="false" aria-controls="collapseFaq7">
+                                    “Dung lượng Thoại” là gì?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq7" class="collapse" aria-labelledby="faq7" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Là những số phút gọi nội mạng và ngoại mạng.</p>
+                            </div>
+                        </div>
+                    </div><!--7-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq8">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq8" aria-expanded="false" aria-controls="collapseFaq8">
+                                    “Dung lượng Data” là gì?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq8" class="collapse" aria-labelledby="faq8" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Là những số lượng Megabyte (MB) để khách hàng truy cập Internet qua mạng 3G/4G.</p>
+                            </div>
+                        </div>
+                    </div><!--8-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq9">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq9" aria-expanded="false" aria-controls="collapseFaq9">
+                                    “Dung lượng SMS” là gì?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq9" class="collapse" aria-labelledby="faq9" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Là những số lượng tin nhắn nội mạng và ngoại mạng.</p>
+                            </div>
+                        </div>
+                    </div><!--9-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq10">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq10" aria-expanded="false" aria-controls="collapseFaq10">
+                                    Gói cước tại M090 có 3 trạng thái.
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq10" class="collapse" aria-labelledby="faq10" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <ul>
+                                    <li>Trạng thái hết hiệu lực sử dụng</li>
+                                    <li>Trạng thái không tự động gia hạn</li>
+                                    <li>Trạng thái hủy</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--10-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq11">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq11" aria-expanded="false" aria-controls="collapseFaq11">
+                                    Thế nào là “Trạng thái hết hiệu lực sử dụng”?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq11" class="collapse" aria-labelledby="faq11" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Khi gói cước của quý khách hàng đã hết thời gian sử dụng (mặc dù dung lượng quý khách đang có vẫn còn) nhưng quý khách không được tiếp tục sử dụng dung lượng trong gói cước đó nữa.</p>
+                            </div>
+                        </div>
+                    </div><!--11-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq12">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq12" aria-expanded="false" aria-controls="collapseFaq12">
+                                    Thế nào là “Trạng thái không tự động gia hạn”?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq12" class="collapse" aria-labelledby="faq12" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Gói cước không tự động gia hạn khi khách hàng mua gói cước mới cùng chu kỳ thì các thành phần dung lượng của gói cước cũ sẽ không được tự động gia hạn. Hệ thống sẽ cập nhật thông tin sử dụng của gói cước mới vào tài khoản của quý khách.</p>
+                            </div>
+                        </div>
+                    </div><!--12-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq13">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq13" aria-expanded="false" aria-controls="collapseFaq13">
+                                    Nếu muốn cộng dồn dung lượng cho chu kì sử dụng tiếp theo, khách hàng cần làm gì?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq13" class="collapse" aria-labelledby="faq13" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Nếu khách hàng muốn cộng dồn dung lượng vào chu kỳ sử dụng kế tiếp thì khách hàng cần mua thêm dung lượng trước thời hạn kết thúc của gói cước đang sử dụng.</p>
+                            </div>
+                        </div>
+                    </div><!--13-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq14">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq14" aria-expanded="false" aria-controls="collapseFaq14">
+                                    Nếu tôi mua gói cước mới có dung lượng của một trong số các thành phần của gói cước cũ thì dung lượng của các thành phần còn lại có được sử dụng tiếp không?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq14" class="collapse" aria-labelledby="faq14" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Nếu khách hàng đang sử dụng gói cước bao gồm dung lượng Thoại, Data và SMS, trước thời điểm hết hạn của gói cước cũ Khách hàng chỉ mua thêm dung lượng Thoại, hệ thống sẽ cộng dồn dung lượng và thời gian sử dụng của thành phần Thoại, khách hàng vẫn tiếp tục sử dụng dung lượng các thành phần khác cho đến hết thời gian sử dụng. Ở chu kỳ sử dụng tiếp theo, khách hàng chỉ được sử dụng thành phần Thoại đã mua và gia hạn trước đó.</p>
+                                <p>Nếu khách hàng mua gói cước sau thời hạn sử dụng của gói cước cũ, hệ thống sẽ cập nhật dung lượng và thời gian sử dụng của gói cước mới (không cộng dồn dung lượng).</p>
+                            </div>
+                        </div>
+                    </div><!--14-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq15">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq15" aria-expanded="false" aria-controls="collapseFaq15">
+                                    Làm cách nào để khách hàng gia hạn thêm thời gian sử dụng cho gói cước?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq15" class="collapse" aria-labelledby="faq15" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Trước thời điểm hết hạn sử dụng của gói cước cũ, Khách hàng mua bổ sung các thành dung lượng mà khách hàng mong muốn (lưu ý là mua cùng chu kì để được cộng dồn dung lượng vào gói cước mới)</p>
+                            </div>
+                        </div>
+                    </div><!--15-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq16">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq16" aria-expanded="false" aria-controls="collapseFaq16">
+                                    Thế nào là “Trạng thái hủy”?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq16" class="collapse" aria-labelledby="faq16" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Gói cước bị vào trạng thái hủy khi khách hàng mua gói cước mới khác với chu kì sử dụng của gói cước cũ, gói cước cũ sẽ bị hủy hoàn toàn về dung lượng và thời gian sử dụng. Hệ thống sẽ cập nhật thông tin sử dụng của gói cước mới vào tài khoản của quý khách.</p>
+                            </div>
+                        </div>
+                    </div><!--16-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq17">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq17" aria-expanded="false" aria-controls="collapseFaq17">
+                                    M090 có những chu kì sử dụng nào?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq17" class="collapse" aria-labelledby="faq17" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>M090 có 3 chu kì chính là:</p>
+                                <ul>
+                                    <li>Chu kì ngày: có thời gian sử dụng 24 giờ kể từ thời điểm khách hàng đăng ký mua gói cước.</li>
+                                    <li>Chu kì tuần: có thời gian sử dụng 07 ngày kể từ thời điểm khách hàng đăng ký mua gói cước.</li>
+                                    <li>Chu kì tháng: có thời gian sử dụng 30 ngày kể từ thời điểm khách hàng đăng ký mua gói cước.</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!--17-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq18">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq18" aria-expanded="false" aria-controls="collapseFaq18">
+                                    Nếu khách hàng mua cùng chu kì thì sao?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq18" class="collapse" aria-labelledby="faq18" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Dựa trên 3 chu kì là “Ngày”, “Tuần” và “Tháng”. Nếu quý khách hàng mua các gói cước kế tiếp có cùng chu kì (Ví dụ: gói cước đang sử dụng của khách hàng là gói tháng, gói cước kế tiếp của khách hàng cùng là gói tháng) thì các dung lượng, thời gian sử dụng trong gói cước cũ sẽ được cộng dồn vào gói cước mới.</p>
+                            </div>
+                        </div>
+                    </div><!--18-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq19">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq19" aria-expanded="false" aria-controls="collapseFaq19">
+                                    Nếu khách hàng mua khác chu kì thì sao?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq19" class="collapse" aria-labelledby="faq19" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p><b>Quý khách chú ý!</b> Nếu quý khách hàng mua gói cước kế tiếp khác chu kì với gói cước đang sử dụng (Ví dụ: Khách hàng đang sử dụng gói cước chu kỳ Tuần, gói cước kế tiếp khách hàng mua là gói cước chu kỳ Tháng) thì các dung lượng, thời gian sử dụng trong gói cước cũ sẽ bị hủy và không được cộng dồn vào gói cước mới.</p>
+                            </div>
+                        </div>
+                    </div><!--19-->
+
+                    <div class="card">
+                        <div class="card-header" id="faq20">
+                            <h5 class="title">
+                                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFaq20" aria-expanded="false" aria-controls="collapseFaq20">
+                                    Làm thế nào để hủy các gói cước?
+                                </button>
+                            </h5>
+                        </div>
+                        <div id="collapseFaq20" class="collapse" aria-labelledby="faq20" data-parent="#accordionFaq">
+                            <div class="card-body">
+                                <p>Trên app M090, khách hàng vào mục <b>“Lịch sử”</b>, hệ thống hiển thị thông tin <b>“Gói cước đang sử dụng”</b>, Khách hàng chon <b>“Hủy gói”</b> để hủy tính năng tự động gia hạn của gói cước, khách hàng vẫn tiếp tục sử dụng lượng của gói cước cho đến hết chu kỳ.</p>
+                                <p>Đối với khách hàng không sử dụng ứng dụng, vui lòng liên hệ Tổng đài CSKH 9090 của MobiFone để được hỗ trợ.</p>
+                            </div>
+                        </div>
+                    </div><!--20-->
+                </div>
+            </div>
+
+            <div class="col-12 col-lg-1"></div>
+
+        </div>
+    </div>
+</section>
+                                </div>
+
+                                
+
+                            </div>
+                        </div>
+
+                    </div>
+                </section><!--page-main-->
+
+                <section id="o-page-bottom" class="o-page-bottom">
+
+</section><!--page-bottom-->
+
+            </div>
+        </div>
+    </div>
+
+</section>
+<!--!site-content-->
+
+<footer id="site-footer" class="site-footer">
+
+	<section id="o-footer-top" class="o-footer-top">
+		<div class="o-footer-top__wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col-12"></div>
+				</div>
+			</div>
+		</div>
+	</section><!--top-footer-->
+
+	<section id="o-footer-main" class="o-footer-main">
+		<div class="o-footer-main__wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-lg-2 o-column">
+						<div class="o-footer-navigation">
+	<div class="o-footer-navigation__wrapper">
+
+		<div class="o-footer-menu">
+			<nav id="site-navigation--footer" class="site-navigation--footer">
+				<ul class="navbar-nav">
+					<li id="nav-item-footer-01" class="nav-item">
+						<a class="nav-link active" href="/">TRANG CHỦ</a>
+					</li>
+					<li id="nav-item-footer-02" class="nav-item">
+						<a class="nav-link" href="/gioi-thieu-ve-m090/">VỀ M090</a>
+					</li>
+					<li id="nav-item-footer-03" class="nav-item">
+						<a class="nav-link" href="/tin-tuc/">TIN TỨC</a>
+					</li>
+					<li id="nav-item-footer-04" class="nav-item">
+						<a class="nav-link" href="/faqs/">FAQs</a>
+					</li>
+					<li id="nav-item-footer-05" class="nav-item">
+						<a class="nav-link" href="/lien-he/">LIÊN HỆ</a>
+					</li>
+				</ul>
+			</nav>
+		</div>
+
+	</div>
+</div><!--footer-navigation-->
+					</div>
+					<div class="col-12 col-lg-4 o-column">
+						<div class="o-footer-main__address tpvn">
+							<h4 class="title">Tripath Vietnam</h4>
+							<p>Tầng 21 - Tòa nhà Icon 4 Tower - 242A Đê La Thành, Quận Đống Đa, TP. Hà Nội</p>
+						</div>
+						<div class="o-footer-main__address mobifone">
+							<h4 class="title">MobiFone</h4>
+							<p>Tòa nhà MobiFone - Số 5/82 đường Duy Tân, Quận Cầu Giấy, TP. Hà Nội</p>
+						</div>
+					</div>
+					<div class="col-12 col-lg-4 o-column">
+						<div class="o-footer-main__about">
+							<h4 class="title">Về M090</h4>
+							<p>M090 là sản phẩm ra đời từ sự hợp tác giữa MobiFone và Tripath Việt Nam từ năm 2017, mục tiêu của dự án nhằm đem lại trải nghiệm hoàn toàn mới trong việc quản lý cước viễn thông cho người dùng cuối. Mọi thông tin cần liên hệ quý khách hàng vui lòng gửi về Tripath Việt Nam hoặc MobiFone.</p>
+						</div>
+					</div>
+					<div class="col-12 col-lg-2 o-column">
+						<div class="o-footer-main__social">
+							<h4 class="title">Social</h4>
+							<ul>
+								<li>
+									<a href="https://www.facebook.com/m090mobifone"><i class="fab fa-facebook-f"></i></a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section><!--main-footer-->
+
+	<section id="o-footer-bottom" class="o-footer-bottom">
+		<div class="o-footer-bottom__wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 align-self-center">
+						<div class="o-copyright">
+							<div class="o-copyright__wrapper">
+								<p>Bản quyền © 2018 thuộc về Tripath Vietnam</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section><!--bottom-footer-->
+
+</footer>
+<!--!site-footer-->
+	</div>
+</div>
+
+</body>
+<script defer src="/vendors/font-awesome/js/fontawesome-all.js"></script>
+<script type="text/javascript" src="/js/index.min.js"></script>
+</html>
