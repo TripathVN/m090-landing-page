@@ -390,6 +390,37 @@
   }
 }
 
+/* FAQs */
+.faqs {
+  .o-page-top {
+    background: linear-gradient(#ddecee, #fff);
+
+    &__wrapper {
+      padding: 12rem 0 6rem 0;
+      text-align: center;
+
+      @media (max-width: 992px) {
+        padding: 6rem 0 6rem 0;
+      }
+    }
+  }
+
+  .o-page-main {
+    padding-bottom: 6rem;
+
+    &__wrapper {
+      padding: 0;
+
+      .o-p-faqs {
+        margin-top: -40px;
+      }
+    }
+  }
+
+  .o-page-bottom {
+  }
+}
+
 /* Lucky Wheel Event Page */
 .lucky-wheel {
   .o-page-top {

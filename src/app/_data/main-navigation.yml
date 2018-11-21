@@ -11,5 +11,8 @@ main-navigation:
 - title: Tin tức
   url: news.html
 
+- title: FAQs
+  url: faqs.html
+
 - title: Liên hệ
   url: contact.html
